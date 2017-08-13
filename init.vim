@@ -24,7 +24,6 @@ Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 Plug 'junegunn/fzf.vim'
 Plug 'mileszs/ack.vim'
 Plug 'vim-scripts/BufOnly.vim'
-Plug 'Alok/notational-fzf-vim'
 call plug#end()
 
 nnoremap <leader>y "*y
