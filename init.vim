@@ -3,7 +3,7 @@ colorscheme pencil
 set background=dark
 set number
 set linebreak
-set clipboard=unnamed
+set clipboard=unnamedplus
 set wildignorecase
 set ignorecase
 set smartcase
