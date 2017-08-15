@@ -24,8 +24,10 @@ Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 Plug 'junegunn/fzf.vim'
 Plug 'mileszs/ack.vim'
 Plug 'vim-scripts/BufOnly.vim'
+Plug 'jlanzarotta/bufexplorer'
 call plug#end()
 
+let g:mapleader = ","
 nnoremap <leader>y "*y
 let g:airline_theme='monochrome'
 autocmd VimEnter * AirlineToggleWhitespace
@@ -36,8 +38,6 @@ let g:airline_left_alt_sep = '|'
 let g:airline_right_sep = ' '
 let g:airline_right_alt_sep = '|'
 let g:airline_powerline_fonts = 1
-
-let g:nv_directories = ['~/notes']
 
 set relativenumber
 set number
@@ -50,3 +50,6 @@ nnoremap <C-J> <C-W><C-J>
 nnoremap <C-K> <C-W><C-K>
 nnoremap <C-L> <C-W><C-L>
 nnoremap <C-H> <C-W><C-H>
+
+nnoremap <leader>f :Files<CR>
+nnoremap <leader>b :BufExplorer<CR>
