@@ -1,0 +1,911 @@
+2017-03-26 15:46:00	--	irc: connecting to server irc.mibbit.net/6667...
+2017-03-26 15:46:01	--	irc: connected to irc.mibbit.net/6667 (2600:3c01::f03c:91ff:fe89:e893)
+2017-03-26 15:46:01	--	irc.ca.us.mibbit.net: *** Looking up your hostname...
+2017-03-26 15:46:01	--	irc.ca.us.mibbit.net: *** Couldn't resolve your hostname; using your IP address instead
+2017-03-26 15:46:01	--	CTCP requested by IRC: VERSION
+2017-03-26 15:46:01	--	CTCP reply to IRC: VERSION WeeChat 1.7 (Mar 26 2017)
+2017-03-26 15:46:01	--	Welcome to the Mibbit IRC Network babyelephants!jason@2600:8807:4000:187:c998:d6a4:c848:f16e
+2017-03-26 15:46:01	--	Your host is irc.ca.us.mibbit.net, running version Unreal3.2.10.4
+2017-03-26 15:46:01	--	This server was created Wed Apr 1 2015 at 22:49:25 UTC
+2017-03-26 15:46:01	--	irc.ca.us.mibbit.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2017-03-26 15:46:01	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2017-03-26 15:46:01	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2017-03-26 15:46:01	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2017-03-26 15:46:01	--	There are 8 users and 3501 invisible on 4 servers
+2017-03-26 15:46:01	--	19 :operator(s) online
+2017-03-26 15:46:01	--	8 :unknown connection(s)
+2017-03-26 15:46:01	--	1068 :channels formed
+2017-03-26 15:46:01	--	I have 1182 clients and 2 servers
+2017-03-26 15:46:01	--	1182 2439 :Current local users 1182, max 2439
+2017-03-26 15:46:01	--	3509 7088 :Current global users 3509, max 7088
+2017-03-26 15:46:01	--	- irc.ca.us.mibbit.net Message of the Day -
+2017-03-26 15:46:01	--	- 15/2/2015 21:40
+2017-03-26 15:46:01	--	- Welcome to irc.mibbit.net
+2017-03-26 15:46:01	--	-  _                      _ _     _     _ _                _
+2017-03-26 15:46:01	--	- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_
+2017-03-26 15:46:01	--	- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+2017-03-26 15:46:01	--	- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_
+2017-03-26 15:46:01	--	- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+2017-03-26 15:46:01	--	-
+2017-03-26 15:46:01	--	- This server is for individuals 13 years or older. Channels that
+2017-03-26 15:46:01	--	- place themselves on Mibbit to issue and supply illegal items,
+2017-03-26 15:46:01	--	- such as File Downloads, Music Tracks or other operations deemed
+2017-03-26 15:46:01	--	- Illegal will be removed, and/or reported to the relevant Internet
+2017-03-26 15:46:01	--	- Service Providers, and/or authorities.
+2017-03-26 15:46:01	--	-
+2017-03-26 15:46:01	--	- Please be friendly and watch your language in public channels.
+2017-03-26 15:46:01	--	- Do not impersonate other users, abuse will not be tolerated.
+2017-03-26 15:46:01	--	-
+2017-03-26 15:46:01	--	- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+2017-03-26 15:46:01	--	-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+2017-03-26 15:46:01	--	-
+2017-03-26 15:46:01	--	- Enjoy your stay :)
+2017-03-26 15:46:01	--	- --axod
+2017-03-26 15:46:01	--	End of /MOTD command.
+2017-03-26 15:46:01	--	User mode [+iwx] by babyelephants
+2017-03-26 16:42:51	--	irc: connecting to server irc.mibbit.net/6667...
+2017-03-26 16:42:51	--	irc: connected to irc.mibbit.net/6667 (2600:3c01::f03c:91ff:fe89:e893)
+2017-03-26 16:42:51	--	irc.ca.us.mibbit.net: *** Looking up your hostname...
+2017-03-26 16:42:51	--	irc.ca.us.mibbit.net: *** Couldn't resolve your hostname; using your IP address instead
+2017-03-26 16:42:51	--	CTCP requested by IRC: VERSION
+2017-03-26 16:42:51	--	CTCP reply to IRC: VERSION WeeChat 1.7 (Mar 26 2017)
+2017-03-26 16:42:51	--	Welcome to the Mibbit IRC Network babyelephants!jason@2600:8807:4000:187:c998:d6a4:c848:f16e
+2017-03-26 16:42:51	--	Your host is irc.ca.us.mibbit.net, running version Unreal3.2.10.4
+2017-03-26 16:42:51	--	This server was created Wed Apr 1 2015 at 22:49:25 UTC
+2017-03-26 16:42:51	--	irc.ca.us.mibbit.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2017-03-26 16:42:51	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2017-03-26 16:42:51	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2017-03-26 16:42:51	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2017-03-26 16:42:51	--	There are 10 users and 3472 invisible on 4 servers
+2017-03-26 16:42:51	--	19 :operator(s) online
+2017-03-26 16:42:51	--	4 :unknown connection(s)
+2017-03-26 16:42:51	--	1063 :channels formed
+2017-03-26 16:42:51	--	I have 1158 clients and 2 servers
+2017-03-26 16:42:51	--	1158 2439 :Current local users 1158, max 2439
+2017-03-26 16:42:51	--	3482 7088 :Current global users 3482, max 7088
+2017-03-26 16:42:51	--	- irc.ca.us.mibbit.net Message of the Day -
+2017-03-26 16:42:51	--	- 15/2/2015 21:40
+2017-03-26 16:42:51	--	- Welcome to irc.mibbit.net
+2017-03-26 16:42:51	--	-  _                      _ _     _     _ _                _
+2017-03-26 16:42:51	--	- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_
+2017-03-26 16:42:51	--	- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+2017-03-26 16:42:51	--	- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_
+2017-03-26 16:42:51	--	- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+2017-03-26 16:42:51	--	-
+2017-03-26 16:42:51	--	- This server is for individuals 13 years or older. Channels that
+2017-03-26 16:42:51	--	- place themselves on Mibbit to issue and supply illegal items,
+2017-03-26 16:42:51	--	- such as File Downloads, Music Tracks or other operations deemed
+2017-03-26 16:42:51	--	- Illegal will be removed, and/or reported to the relevant Internet
+2017-03-26 16:42:51	--	- Service Providers, and/or authorities.
+2017-03-26 16:42:51	--	-
+2017-03-26 16:42:51	--	- Please be friendly and watch your language in public channels.
+2017-03-26 16:42:51	--	- Do not impersonate other users, abuse will not be tolerated.
+2017-03-26 16:42:51	--	-
+2017-03-26 16:42:51	--	- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+2017-03-26 16:42:51	--	-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+2017-03-26 16:42:51	--	-
+2017-03-26 16:42:51	--	- Enjoy your stay :)
+2017-03-26 16:42:51	--	- --axod
+2017-03-26 16:42:51	--	End of /MOTD command.
+2017-03-26 16:42:51	--	User mode [+iwx] by babyelephants
+2017-03-26 20:45:20	--	irc: connecting to server irc.mibbit.net/6667...
+2017-03-26 20:45:20	--	irc: connected to irc.mibbit.net/6667 (2600:3c01::f03c:91ff:fe89:e893)
+2017-03-26 20:45:20	--	irc.ca.us.mibbit.net: *** Looking up your hostname...
+2017-03-26 20:45:20	--	irc.ca.us.mibbit.net: *** Couldn't resolve your hostname; using your IP address instead
+2017-03-26 20:45:20	--	CTCP requested by IRC: VERSION
+2017-03-26 20:45:20	--	CTCP reply to IRC: VERSION WeeChat 1.7 (Mar 26 2017)
+2017-03-26 20:45:20	--	Welcome to the Mibbit IRC Network babyelephants!jason@2600:8807:4000:187:c998:d6a4:c848:f16e
+2017-03-26 20:45:20	--	Your host is irc.ca.us.mibbit.net, running version Unreal3.2.10.4
+2017-03-26 20:45:20	--	This server was created Wed Apr 1 2015 at 22:49:25 UTC
+2017-03-26 20:45:20	--	irc.ca.us.mibbit.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2017-03-26 20:45:20	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2017-03-26 20:45:20	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2017-03-26 20:45:20	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2017-03-26 20:45:20	--	There are 8 users and 2925 invisible on 4 servers
+2017-03-26 20:45:20	--	19 :operator(s) online
+2017-03-26 20:45:20	--	2 :unknown connection(s)
+2017-03-26 20:45:20	--	1046 :channels formed
+2017-03-26 20:45:20	--	I have 1042 clients and 2 servers
+2017-03-26 20:45:20	--	1042 2439 :Current local users 1042, max 2439
+2017-03-26 20:45:20	--	2933 7088 :Current global users 2933, max 7088
+2017-03-26 20:45:20	--	- irc.ca.us.mibbit.net Message of the Day -
+2017-03-26 20:45:20	--	- 15/2/2015 21:40
+2017-03-26 20:45:20	--	- Welcome to irc.mibbit.net
+2017-03-26 20:45:20	--	-  _                      _ _     _     _ _                _
+2017-03-26 20:45:20	--	- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_
+2017-03-26 20:45:20	--	- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+2017-03-26 20:45:20	--	- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_
+2017-03-26 20:45:20	--	- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+2017-03-26 20:45:20	--	-
+2017-03-26 20:45:20	--	- This server is for individuals 13 years or older. Channels that
+2017-03-26 20:45:20	--	- place themselves on Mibbit to issue and supply illegal items,
+2017-03-26 20:45:20	--	- such as File Downloads, Music Tracks or other operations deemed
+2017-03-26 20:45:20	--	- Illegal will be removed, and/or reported to the relevant Internet
+2017-03-26 20:45:20	--	- Service Providers, and/or authorities.
+2017-03-26 20:45:20	--	-
+2017-03-26 20:45:20	--	- Please be friendly and watch your language in public channels.
+2017-03-26 20:45:20	--	- Do not impersonate other users, abuse will not be tolerated.
+2017-03-26 20:45:20	--	-
+2017-03-26 20:45:20	--	- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+2017-03-26 20:45:20	--	-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+2017-03-26 20:45:20	--	-
+2017-03-26 20:45:20	--	- Enjoy your stay :)
+2017-03-26 20:45:20	--	- --axod
+2017-03-26 20:45:20	--	End of /MOTD command.
+2017-03-26 20:45:20	--	User mode [+iwx] by babyelephants
+2017-03-26 20:50:10	--	irc: connecting to server irc.mibbit.net/6667...
+2017-03-26 20:50:11	--	irc: connected to irc.mibbit.net/6667 (54.174.129.87)
+2017-03-26 20:50:11	--	irc.us.mibbit.net: *** Looking up your hostname...
+2017-03-26 20:50:11	--	irc.us.mibbit.net: *** Couldn't resolve your hostname; using your IP address instead
+2017-03-26 20:50:11	--	irc: nickname "babyelephants" is already in use, trying nickname "babyelep1"
+2017-03-26 20:50:11	--	CTCP requested by IRC: VERSION
+2017-03-26 20:50:11	--	CTCP reply to IRC: VERSION WeeChat 1.7 (Mar 26 2017)
+2017-03-26 20:50:11	--	Welcome to the Mibbit IRC Network babyelep1!jason@172.98.67.45
+2017-03-26 20:50:11	--	Your host is irc.us.mibbit.net, running version Unreal3.2.10.4
+2017-03-26 20:50:11	--	This server was created Sun Mar 8 2015 at 19:37:15 UTC
+2017-03-26 20:50:11	--	irc.us.mibbit.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2017-03-26 20:50:11	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2017-03-26 20:50:11	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2017-03-26 20:50:11	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2017-03-26 20:50:11	--	There are 8 users and 2922 invisible on 4 servers
+2017-03-26 20:50:11	--	19 :operator(s) online
+2017-03-26 20:50:11	--	2 :unknown connection(s)
+2017-03-26 20:50:11	--	1049 :channels formed
+2017-03-26 20:50:11	--	I have 900 clients and 2 servers
+2017-03-26 20:50:11	--	900 3260 :Current local users 900, max 3260
+2017-03-26 20:50:11	--	2930 7088 :Current global users 2930, max 7088
+2017-03-26 20:50:11	--	- irc.us.mibbit.net Message of the Day -
+2017-03-26 20:50:11	--	- 2/12/2014 13:42
+2017-03-26 20:50:11	--	- Welcome to irc.mibbit.net
+2017-03-26 20:50:11	--	-  _                      _ _     _     _ _                _
+2017-03-26 20:50:11	--	- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_
+2017-03-26 20:50:11	--	- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+2017-03-26 20:50:11	--	- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_
+2017-03-26 20:50:11	--	- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+2017-03-26 20:50:11	--	-
+2017-03-26 20:50:11	--	- This server is for individuals 13 years or older. Channels that
+2017-03-26 20:50:11	--	- place themselves on Mibbit to issue and supply illegal items,
+2017-03-26 20:50:11	--	- such as File Downloads, Music Tracks or other operations deemed
+2017-03-26 20:50:11	--	- Illegal will be removed, and/or reported to the relevant Internet
+2017-03-26 20:50:11	--	- Service Providers, and/or authorities.
+2017-03-26 20:50:11	--	-
+2017-03-26 20:50:11	--	- Please be friendly and watch your language in public channels.
+2017-03-26 20:50:11	--	- Do not impersonate other users, abuse will not be tolerated.
+2017-03-26 20:50:11	--	-
+2017-03-26 20:50:11	--	- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+2017-03-26 20:50:11	--	-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+2017-03-26 20:50:11	--	-
+2017-03-26 20:50:11	--	- Enjoy your stay :)
+2017-03-26 20:50:11	--	- --axod
+2017-03-26 20:50:11	--	End of /MOTD command.
+2017-03-26 20:50:11	--	User mode [+iwx] by babyelep1
+2017-03-26 20:50:46	--	irc: connecting to server irc.mibbit.net/6667...
+2017-03-26 20:50:46	--	irc: connected to irc.mibbit.net/6667 (54.174.129.87)
+2017-03-26 20:50:46	--	irc.us.mibbit.net: *** Looking up your hostname...
+2017-03-26 20:50:46	--	irc.us.mibbit.net: *** Couldn't resolve your hostname; using your IP address instead
+2017-03-26 20:50:46	--	irc: nickname "babyelephants" is already in use, trying nickname "babyelep1"
+2017-03-26 20:50:47	--	CTCP requested by IRC: VERSION
+2017-03-26 20:50:47	--	CTCP reply to IRC: VERSION WeeChat 1.7 (Mar 26 2017)
+2017-03-26 20:50:47	--	Welcome to the Mibbit IRC Network babyelep1!jason@172.98.67.45
+2017-03-26 20:50:47	--	Your host is irc.us.mibbit.net, running version Unreal3.2.10.4
+2017-03-26 20:50:47	--	This server was created Sun Mar 8 2015 at 19:37:15 UTC
+2017-03-26 20:50:47	--	irc.us.mibbit.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2017-03-26 20:50:47	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2017-03-26 20:50:47	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2017-03-26 20:50:47	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2017-03-26 20:50:47	--	There are 8 users and 2930 invisible on 4 servers
+2017-03-26 20:50:47	--	19 :operator(s) online
+2017-03-26 20:50:47	--	1 :unknown connection(s)
+2017-03-26 20:50:47	--	1047 :channels formed
+2017-03-26 20:50:47	--	I have 906 clients and 2 servers
+2017-03-26 20:50:47	--	906 3260 :Current local users 906, max 3260
+2017-03-26 20:50:47	--	2938 7088 :Current global users 2938, max 7088
+2017-03-26 20:50:47	--	- irc.us.mibbit.net Message of the Day -
+2017-03-26 20:50:47	--	- 2/12/2014 13:42
+2017-03-26 20:50:47	--	- Welcome to irc.mibbit.net
+2017-03-26 20:50:47	--	-  _                      _ _     _     _ _                _
+2017-03-26 20:50:47	--	- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_
+2017-03-26 20:50:47	--	- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+2017-03-26 20:50:47	--	- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_
+2017-03-26 20:50:47	--	- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+2017-03-26 20:50:47	--	-
+2017-03-26 20:50:47	--	- This server is for individuals 13 years or older. Channels that
+2017-03-26 20:50:47	--	- place themselves on Mibbit to issue and supply illegal items,
+2017-03-26 20:50:47	--	- such as File Downloads, Music Tracks or other operations deemed
+2017-03-26 20:50:47	--	- Illegal will be removed, and/or reported to the relevant Internet
+2017-03-26 20:50:47	--	- Service Providers, and/or authorities.
+2017-03-26 20:50:47	--	-
+2017-03-26 20:50:47	--	- Please be friendly and watch your language in public channels.
+2017-03-26 20:50:47	--	- Do not impersonate other users, abuse will not be tolerated.
+2017-03-26 20:50:47	--	-
+2017-03-26 20:50:47	--	- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+2017-03-26 20:50:47	--	-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+2017-03-26 20:50:47	--	-
+2017-03-26 20:50:47	--	- Enjoy your stay :)
+2017-03-26 20:50:47	--	- --axod
+2017-03-26 20:50:47	--	End of /MOTD command.
+2017-03-26 20:50:47	--	User mode [+iwx] by babyelep1
+2017-03-26 20:52:14	--	irc: connecting to server irc.mibbit.net/6667...
+2017-03-26 20:52:14	--	irc: connected to irc.mibbit.net/6667 (54.174.129.87)
+2017-03-26 20:52:14	--	irc.us.mibbit.net: *** Looking up your hostname...
+2017-03-26 20:52:14	--	irc.us.mibbit.net: *** Couldn't resolve your hostname; using your IP address instead
+2017-03-26 20:52:15	--	CTCP requested by IRC: VERSION
+2017-03-26 20:52:15	--	CTCP reply to IRC: VERSION WeeChat 1.7 (Mar 26 2017)
+2017-03-26 20:52:15	--	Welcome to the Mibbit IRC Network babyelephants!jason@172.98.67.45
+2017-03-26 20:52:15	--	Your host is irc.us.mibbit.net, running version Unreal3.2.10.4
+2017-03-26 20:52:15	--	This server was created Sun Mar 8 2015 at 19:37:15 UTC
+2017-03-26 20:52:15	--	irc.us.mibbit.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2017-03-26 20:52:15	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2017-03-26 20:52:15	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2017-03-26 20:52:15	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2017-03-26 20:52:15	--	There are 8 users and 2924 invisible on 4 servers
+2017-03-26 20:52:15	--	19 :operator(s) online
+2017-03-26 20:52:15	--	3 :unknown connection(s)
+2017-03-26 20:52:15	--	1048 :channels formed
+2017-03-26 20:52:15	--	I have 920 clients and 2 servers
+2017-03-26 20:52:15	--	920 3260 :Current local users 920, max 3260
+2017-03-26 20:52:15	--	2932 7088 :Current global users 2932, max 7088
+2017-03-26 20:52:15	--	- irc.us.mibbit.net Message of the Day -
+2017-03-26 20:52:15	--	- 2/12/2014 13:42
+2017-03-26 20:52:15	--	- Welcome to irc.mibbit.net
+2017-03-26 20:52:15	--	-  _                      _ _     _     _ _                _
+2017-03-26 20:52:15	--	- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_
+2017-03-26 20:52:15	--	- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+2017-03-26 20:52:15	--	- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_
+2017-03-26 20:52:15	--	- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+2017-03-26 20:52:15	--	-
+2017-03-26 20:52:15	--	- This server is for individuals 13 years or older. Channels that
+2017-03-26 20:52:15	--	- place themselves on Mibbit to issue and supply illegal items,
+2017-03-26 20:52:15	--	- such as File Downloads, Music Tracks or other operations deemed
+2017-03-26 20:52:15	--	- Illegal will be removed, and/or reported to the relevant Internet
+2017-03-26 20:52:15	--	- Service Providers, and/or authorities.
+2017-03-26 20:52:15	--	-
+2017-03-26 20:52:15	--	- Please be friendly and watch your language in public channels.
+2017-03-26 20:52:15	--	- Do not impersonate other users, abuse will not be tolerated.
+2017-03-26 20:52:15	--	-
+2017-03-26 20:52:15	--	- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+2017-03-26 20:52:15	--	-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+2017-03-26 20:52:15	--	-
+2017-03-26 20:52:15	--	- Enjoy your stay :)
+2017-03-26 20:52:15	--	- --axod
+2017-03-26 20:52:15	--	End of /MOTD command.
+2017-03-26 20:52:15	--	User mode [+iwx] by babyelephants
+2017-03-26 20:53:04	--	irc: connecting to server irc.mibbit.net/6667...
+2017-03-26 20:53:05	--	irc: connected to irc.mibbit.net/6667 (173.255.253.218)
+2017-03-26 20:53:05	--	irc.ca.us.mibbit.net: *** Looking up your hostname...
+2017-03-26 20:53:05	--	irc.ca.us.mibbit.net: *** Couldn't resolve your hostname; using your IP address instead
+2017-03-26 20:53:05	--	CTCP requested by IRC: VERSION
+2017-03-26 20:53:05	--	CTCP reply to IRC: VERSION WeeChat 1.7 (Mar 26 2017)
+2017-03-26 20:53:05	--	Welcome to the Mibbit IRC Network babyelephants!jason@172.98.67.45
+2017-03-26 20:53:05	--	Your host is irc.ca.us.mibbit.net, running version Unreal3.2.10.4
+2017-03-26 20:53:05	--	This server was created Wed Apr 1 2015 at 22:49:25 UTC
+2017-03-26 20:53:05	--	irc.ca.us.mibbit.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2017-03-26 20:53:05	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2017-03-26 20:53:05	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2017-03-26 20:53:05	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2017-03-26 20:53:05	--	There are 8 users and 2924 invisible on 4 servers
+2017-03-26 20:53:05	--	19 :operator(s) online
+2017-03-26 20:53:05	--	1049 :channels formed
+2017-03-26 20:53:05	--	I have 1026 clients and 2 servers
+2017-03-26 20:53:05	--	1026 2439 :Current local users 1026, max 2439
+2017-03-26 20:53:05	--	2932 7088 :Current global users 2932, max 7088
+2017-03-26 20:53:05	--	- irc.ca.us.mibbit.net Message of the Day -
+2017-03-26 20:53:05	--	- 15/2/2015 21:40
+2017-03-26 20:53:05	--	- Welcome to irc.mibbit.net
+2017-03-26 20:53:05	--	-  _                      _ _     _     _ _                _
+2017-03-26 20:53:05	--	- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_
+2017-03-26 20:53:05	--	- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+2017-03-26 20:53:05	--	- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_
+2017-03-26 20:53:05	--	- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+2017-03-26 20:53:05	--	-
+2017-03-26 20:53:05	--	- This server is for individuals 13 years or older. Channels that
+2017-03-26 20:53:05	--	- place themselves on Mibbit to issue and supply illegal items,
+2017-03-26 20:53:05	--	- such as File Downloads, Music Tracks or other operations deemed
+2017-03-26 20:53:05	--	- Illegal will be removed, and/or reported to the relevant Internet
+2017-03-26 20:53:05	--	- Service Providers, and/or authorities.
+2017-03-26 20:53:05	--	-
+2017-03-26 20:53:05	--	- Please be friendly and watch your language in public channels.
+2017-03-26 20:53:05	--	- Do not impersonate other users, abuse will not be tolerated.
+2017-03-26 20:53:05	--	-
+2017-03-26 20:53:05	--	- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+2017-03-26 20:53:05	--	-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+2017-03-26 20:53:05	--	-
+2017-03-26 20:53:05	--	- Enjoy your stay :)
+2017-03-26 20:53:05	--	- --axod
+2017-03-26 20:53:05	--	End of /MOTD command.
+2017-03-26 20:53:05	--	User mode [+iwx] by babyelephants
+2017-03-26 20:54:17	--	irc: connecting to server irc.mibbit.net/6667...
+2017-03-26 20:54:18	--	irc: connected to irc.mibbit.net/6667 (78.129.202.9)
+2017-03-26 20:54:18	--	irc.uk.mibbit.net: *** Looking up your hostname...
+2017-03-26 20:54:18	--	irc.uk.mibbit.net: *** Couldn't resolve your hostname; using your IP address instead
+2017-03-26 20:54:18	--	CTCP requested by IRC: VERSION
+2017-03-26 20:54:18	--	CTCP reply to IRC: VERSION WeeChat 1.7 (Mar 26 2017)
+2017-03-26 20:54:18	--	Welcome to the Mibbit IRC Network babyelephants!jason@172.98.67.45
+2017-03-26 20:54:18	--	Your host is irc.uk.mibbit.net, running version Unreal3.2.10.4
+2017-03-26 20:54:18	--	This server was created Sun Jun 14 2015 at 22:16:05 BST
+2017-03-26 20:54:18	--	irc.uk.mibbit.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2017-03-26 20:54:18	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2017-03-26 20:54:18	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2017-03-26 20:54:18	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2017-03-26 20:54:18	--	There are 8 users and 2913 invisible on 4 servers
+2017-03-26 20:54:18	--	19 :operator(s) online
+2017-03-26 20:54:18	--	1 :unknown connection(s)
+2017-03-26 20:54:18	--	1048 :channels formed
+2017-03-26 20:54:18	--	I have 989 clients and 1 servers
+2017-03-26 20:54:18	--	989 2714 :Current local users 989, max 2714
+2017-03-26 20:54:18	--	2921 7088 :Current global users 2921, max 7088
+2017-03-26 20:54:18	--	- irc.uk.mibbit.net Message of the Day -
+2017-03-26 20:54:18	--	- 14/6/2015 21:41
+2017-03-26 20:54:18	--	- Welcome to irc.mibbit.net
+2017-03-26 20:54:18	--	-  _                      _ _     _     _ _                _
+2017-03-26 20:54:18	--	- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_
+2017-03-26 20:54:18	--	- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+2017-03-26 20:54:18	--	- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_
+2017-03-26 20:54:18	--	- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+2017-03-26 20:54:18	--	-
+2017-03-26 20:54:18	--	- This server is for individuals 13 years or older. Channels that
+2017-03-26 20:54:18	--	- place themselves on Mibbit to issue and supply illegal items,
+2017-03-26 20:54:18	--	- such as File Downloads, Music Tracks or other operations deemed
+2017-03-26 20:54:18	--	- Illegal will be removed, and/or reported to the relevant Internet
+2017-03-26 20:54:18	--	- Service Providers, and/or authorities.
+2017-03-26 20:54:18	--	-
+2017-03-26 20:54:18	--	- Please be friendly and watch your language in public channels.
+2017-03-26 20:54:18	--	- Do not impersonate other users, abuse will not be tolerated.
+2017-03-26 20:54:18	--	-
+2017-03-26 20:54:18	--	- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+2017-03-26 20:54:18	--	-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+2017-03-26 20:54:18	--	-
+2017-03-26 20:54:18	--	- Enjoy your stay :)
+2017-03-26 20:54:18	--	- --axod
+2017-03-26 20:54:18	--	End of /MOTD command.
+2017-03-26 20:54:18	--	User mode [+iwx] by babyelephants
+2017-03-26 20:54:56	--	irc: connecting to server irc.mibbit.net/6667...
+2017-03-26 20:54:57	--	irc: connected to irc.mibbit.net/6667 (2600:3c01::f03c:91ff:fe89:e893)
+2017-03-26 20:54:57	--	irc.ca.us.mibbit.net: *** Looking up your hostname...
+2017-03-26 20:54:57	--	irc.ca.us.mibbit.net: *** Couldn't resolve your hostname; using your IP address instead
+2017-03-26 20:54:57	--	CTCP requested by IRC: VERSION
+2017-03-26 20:54:57	--	CTCP reply to IRC: VERSION WeeChat 1.7 (Mar 26 2017)
+2017-03-26 20:54:57	--	Welcome to the Mibbit IRC Network babyelephants!jason@2600:8807:4000:187:15af:c555:5e65:8051
+2017-03-26 20:54:57	--	Your host is irc.ca.us.mibbit.net, running version Unreal3.2.10.4
+2017-03-26 20:54:57	--	This server was created Wed Apr 1 2015 at 22:49:25 UTC
+2017-03-26 20:54:57	--	irc.ca.us.mibbit.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2017-03-26 20:54:57	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2017-03-26 20:54:57	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2017-03-26 20:54:57	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2017-03-26 20:54:57	--	There are 8 users and 2898 invisible on 4 servers
+2017-03-26 20:54:57	--	19 :operator(s) online
+2017-03-26 20:54:57	--	1046 :channels formed
+2017-03-26 20:54:57	--	I have 1009 clients and 2 servers
+2017-03-26 20:54:57	--	1009 2439 :Current local users 1009, max 2439
+2017-03-26 20:54:57	--	2906 7088 :Current global users 2906, max 7088
+2017-03-26 20:54:57	--	- irc.ca.us.mibbit.net Message of the Day -
+2017-03-26 20:54:57	--	- 15/2/2015 21:40
+2017-03-26 20:54:57	--	- Welcome to irc.mibbit.net
+2017-03-26 20:54:57	--	-  _                      _ _     _     _ _                _
+2017-03-26 20:54:57	--	- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_
+2017-03-26 20:54:57	--	- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+2017-03-26 20:54:57	--	- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_
+2017-03-26 20:54:57	--	- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+2017-03-26 20:54:57	--	-
+2017-03-26 20:54:57	--	- This server is for individuals 13 years or older. Channels that
+2017-03-26 20:54:57	--	- place themselves on Mibbit to issue and supply illegal items,
+2017-03-26 20:54:57	--	- such as File Downloads, Music Tracks or other operations deemed
+2017-03-26 20:54:57	--	- Illegal will be removed, and/or reported to the relevant Internet
+2017-03-26 20:54:57	--	- Service Providers, and/or authorities.
+2017-03-26 20:54:57	--	-
+2017-03-26 20:54:57	--	- Please be friendly and watch your language in public channels.
+2017-03-26 20:54:57	--	- Do not impersonate other users, abuse will not be tolerated.
+2017-03-26 20:54:57	--	-
+2017-03-26 20:54:57	--	- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+2017-03-26 20:54:57	--	-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+2017-03-26 20:54:57	--	-
+2017-03-26 20:54:57	--	- Enjoy your stay :)
+2017-03-26 20:54:57	--	- --axod
+2017-03-26 20:54:57	--	End of /MOTD command.
+2017-03-26 20:54:57	--	User mode [+iwx] by babyelephants
+2017-03-26 23:29:12	--	irc: connecting to server irc.mibbit.net/6667...
+2017-03-26 23:29:12	--	irc: connected to irc.mibbit.net/6667 (2600:3c01::f03c:91ff:fe89:e893)
+2017-03-26 23:29:12	--	irc.ca.us.mibbit.net: *** Looking up your hostname...
+2017-03-26 23:29:12	--	irc.ca.us.mibbit.net: *** Couldn't resolve your hostname; using your IP address instead
+2017-03-26 23:29:12	--	CTCP requested by IRC: VERSION
+2017-03-26 23:29:12	--	CTCP reply to IRC: VERSION WeeChat 1.7 (Mar 26 2017)
+2017-03-26 23:29:12	--	Welcome to the Mibbit IRC Network babyelephants!jason@2600:8807:4000:187:4d96:56a6:e3aa:2f23
+2017-03-26 23:29:12	--	Your host is irc.ca.us.mibbit.net, running version Unreal3.2.10.4
+2017-03-26 23:29:12	--	This server was created Wed Apr 1 2015 at 22:49:25 UTC
+2017-03-26 23:29:12	--	irc.ca.us.mibbit.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2017-03-26 23:29:12	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2017-03-26 23:29:12	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2017-03-26 23:29:12	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2017-03-26 23:29:12	--	There are 8 users and 2764 invisible on 4 servers
+2017-03-26 23:29:12	--	19 :operator(s) online
+2017-03-26 23:29:12	--	2 :unknown connection(s)
+2017-03-26 23:29:12	--	1024 :channels formed
+2017-03-26 23:29:12	--	I have 1043 clients and 2 servers
+2017-03-26 23:29:12	--	1043 2439 :Current local users 1043, max 2439
+2017-03-26 23:29:12	--	2772 7088 :Current global users 2772, max 7088
+2017-03-26 23:29:12	--	- irc.ca.us.mibbit.net Message of the Day -
+2017-03-26 23:29:12	--	- 15/2/2015 21:40
+2017-03-26 23:29:12	--	- Welcome to irc.mibbit.net
+2017-03-26 23:29:12	--	-  _                      _ _     _     _ _                _
+2017-03-26 23:29:12	--	- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_
+2017-03-26 23:29:12	--	- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+2017-03-26 23:29:12	--	- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_
+2017-03-26 23:29:12	--	- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+2017-03-26 23:29:12	--	-
+2017-03-26 23:29:12	--	- This server is for individuals 13 years or older. Channels that
+2017-03-26 23:29:12	--	- place themselves on Mibbit to issue and supply illegal items,
+2017-03-26 23:29:12	--	- such as File Downloads, Music Tracks or other operations deemed
+2017-03-26 23:29:12	--	- Illegal will be removed, and/or reported to the relevant Internet
+2017-03-26 23:29:12	--	- Service Providers, and/or authorities.
+2017-03-26 23:29:12	--	-
+2017-03-26 23:29:12	--	- Please be friendly and watch your language in public channels.
+2017-03-26 23:29:12	--	- Do not impersonate other users, abuse will not be tolerated.
+2017-03-26 23:29:12	--	-
+2017-03-26 23:29:12	--	- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+2017-03-26 23:29:12	--	-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+2017-03-26 23:29:12	--	-
+2017-03-26 23:29:12	--	- Enjoy your stay :)
+2017-03-26 23:29:12	--	- --axod
+2017-03-26 23:29:12	--	End of /MOTD command.
+2017-03-26 23:29:12	--	User mode [+iwx] by babyelephants
+2017-03-30 22:01:01	--	irc: connecting to server irc.mibbit.net/6667...
+2017-03-30 22:01:01	--	irc: connected to irc.mibbit.net/6667 (2600:3c01::f03c:91ff:fe89:e893)
+2017-03-30 22:01:01	--	irc.ca.us.mibbit.net: *** Looking up your hostname...
+2017-03-30 22:01:01	--	irc.ca.us.mibbit.net: *** Couldn't resolve your hostname; using your IP address instead
+2017-03-30 22:01:01	--	CTCP requested by IRC: VERSION
+2017-03-30 22:01:01	--	CTCP reply to IRC: VERSION WeeChat 1.7 (Mar 26 2017)
+2017-03-30 22:01:01	--	Welcome to the Mibbit IRC Network babyelephants!jason@2600:8807:4000:187:8df8:246c:eeed:7e7b
+2017-03-30 22:01:01	--	Your host is irc.ca.us.mibbit.net, running version Unreal3.2.10.4
+2017-03-30 22:01:01	--	This server was created Wed Apr 1 2015 at 22:49:25 UTC
+2017-03-30 22:01:01	--	irc.ca.us.mibbit.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2017-03-30 22:01:01	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2017-03-30 22:01:01	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2017-03-30 22:01:01	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2017-03-30 22:01:01	--	There are 8 users and 2846 invisible on 4 servers
+2017-03-30 22:01:01	--	19 :operator(s) online
+2017-03-30 22:01:01	--	1024 :channels formed
+2017-03-30 22:01:01	--	I have 1042 clients and 2 servers
+2017-03-30 22:01:01	--	1042 2439 :Current local users 1042, max 2439
+2017-03-30 22:01:01	--	2854 7088 :Current global users 2854, max 7088
+2017-03-30 22:01:01	--	- irc.ca.us.mibbit.net Message of the Day -
+2017-03-30 22:01:01	--	- 15/2/2015 21:40
+2017-03-30 22:01:01	--	- Welcome to irc.mibbit.net
+2017-03-30 22:01:01	--	-  _                      _ _     _     _ _                _
+2017-03-30 22:01:01	--	- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_
+2017-03-30 22:01:01	--	- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+2017-03-30 22:01:01	--	- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_
+2017-03-30 22:01:01	--	- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+2017-03-30 22:01:01	--	-
+2017-03-30 22:01:01	--	- This server is for individuals 13 years or older. Channels that
+2017-03-30 22:01:01	--	- place themselves on Mibbit to issue and supply illegal items,
+2017-03-30 22:01:01	--	- such as File Downloads, Music Tracks or other operations deemed
+2017-03-30 22:01:01	--	- Illegal will be removed, and/or reported to the relevant Internet
+2017-03-30 22:01:01	--	- Service Providers, and/or authorities.
+2017-03-30 22:01:01	--	-
+2017-03-30 22:01:01	--	- Please be friendly and watch your language in public channels.
+2017-03-30 22:01:01	--	- Do not impersonate other users, abuse will not be tolerated.
+2017-03-30 22:01:01	--	-
+2017-03-30 22:01:01	--	- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+2017-03-30 22:01:01	--	-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+2017-03-30 22:01:01	--	-
+2017-03-30 22:01:01	--	- Enjoy your stay :)
+2017-03-30 22:01:01	--	- --axod
+2017-03-30 22:01:01	--	End of /MOTD command.
+2017-03-30 22:01:01	--	User mode [+iwx] by babyelephants
+2017-06-23 01:52:39	--	irc: connecting to server irc.mibbit.net/6667...
+2017-06-23 01:52:39	--	irc: connected to irc.mibbit.net/6667 (2600:3c01::f03c:91ff:fe89:e893)
+2017-06-23 01:52:39	--	irc.ca.us.mibbit.net: *** Looking up your hostname...
+2017-06-23 01:52:39	--	irc.ca.us.mibbit.net: *** Couldn't resolve your hostname; using your IP address instead
+2017-06-23 01:52:40	--	CTCP requested by IRC: VERSION
+2017-06-23 01:52:40	--	CTCP reply to IRC: VERSION WeeChat 1.7 (Mar 26 2017)
+2017-06-23 01:52:40	--	Welcome to the Mibbit IRC Network babyelephants!jason@2600:8807:5600:195:619b:f502:1501:4a5d
+2017-06-23 01:52:40	--	Your host is irc.ca.us.mibbit.net, running version Unreal3.2.10.4
+2017-06-23 01:52:40	--	This server was created Wed Apr 1 2015 at 22:49:25 UTC
+2017-06-23 01:52:40	--	irc.ca.us.mibbit.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2017-06-23 01:52:40	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2017-06-23 01:52:40	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2017-06-23 01:52:40	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2017-06-23 01:52:40	--	There are 7 users and 2391 invisible on 4 servers
+2017-06-23 01:52:40	--	17 :operator(s) online
+2017-06-23 01:52:40	--	4 :unknown connection(s)
+2017-06-23 01:52:40	--	978 :channels formed
+2017-06-23 01:52:40	--	I have 952 clients and 3 servers
+2017-06-23 01:52:40	--	952 2439 :Current local users 952, max 2439
+2017-06-23 01:52:40	--	2398 7088 :Current global users 2398, max 7088
+2017-06-23 01:52:40	--	- irc.ca.us.mibbit.net Message of the Day -
+2017-06-23 01:52:40	--	- 15/2/2015 21:40
+2017-06-23 01:52:40	--	- Welcome to irc.mibbit.net
+2017-06-23 01:52:40	--	-  _                      _ _     _     _ _                _
+2017-06-23 01:52:40	--	- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_
+2017-06-23 01:52:40	--	- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+2017-06-23 01:52:40	--	- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_
+2017-06-23 01:52:40	--	- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+2017-06-23 01:52:40	--	-
+2017-06-23 01:52:40	--	- This server is for individuals 13 years or older. Channels that
+2017-06-23 01:52:40	--	- place themselves on Mibbit to issue and supply illegal items,
+2017-06-23 01:52:40	--	- such as File Downloads, Music Tracks or other operations deemed
+2017-06-23 01:52:40	--	- Illegal will be removed, and/or reported to the relevant Internet
+2017-06-23 01:52:40	--	- Service Providers, and/or authorities.
+2017-06-23 01:52:40	--	-
+2017-06-23 01:52:40	--	- Please be friendly and watch your language in public channels.
+2017-06-23 01:52:40	--	- Do not impersonate other users, abuse will not be tolerated.
+2017-06-23 01:52:40	--	-
+2017-06-23 01:52:40	--	- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+2017-06-23 01:52:40	--	-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+2017-06-23 01:52:40	--	-
+2017-06-23 01:52:40	--	- Enjoy your stay :)
+2017-06-23 01:52:40	--	- --axod
+2017-06-23 01:52:40	--	End of /MOTD command.
+2017-06-23 01:52:40	--	User mode [+iwx] by babyelephants
+2017-06-23 01:57:47	--	irc: connecting to server irc.mibbit.net/6667...
+2017-06-23 01:57:47	--	irc: connected to irc.mibbit.net/6667 (2600:3c01::f03c:91ff:fe89:e893)
+2017-06-23 01:57:47	--	irc.ca.us.mibbit.net: *** Looking up your hostname...
+2017-06-23 01:57:47	--	irc.ca.us.mibbit.net: *** Couldn't resolve your hostname; using your IP address instead
+2017-06-23 01:57:48	--	CTCP requested by IRC: VERSION
+2017-06-23 01:57:48	--	CTCP reply to IRC: VERSION WeeChat 1.7 (Mar 26 2017)
+2017-06-23 01:57:48	--	Welcome to the Mibbit IRC Network babyelephants!jason@2600:8807:5600:195:619b:f502:1501:4a5d
+2017-06-23 01:57:48	--	Your host is irc.ca.us.mibbit.net, running version Unreal3.2.10.4
+2017-06-23 01:57:48	--	This server was created Wed Apr 1 2015 at 22:49:25 UTC
+2017-06-23 01:57:48	--	irc.ca.us.mibbit.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2017-06-23 01:57:48	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2017-06-23 01:57:48	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2017-06-23 01:57:48	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2017-06-23 01:57:48	--	There are 7 users and 2382 invisible on 4 servers
+2017-06-23 01:57:48	--	17 :operator(s) online
+2017-06-23 01:57:48	--	2 :unknown connection(s)
+2017-06-23 01:57:48	--	977 :channels formed
+2017-06-23 01:57:48	--	I have 974 clients and 3 servers
+2017-06-23 01:57:48	--	974 2439 :Current local users 974, max 2439
+2017-06-23 01:57:48	--	2389 7088 :Current global users 2389, max 7088
+2017-06-23 01:57:48	--	- irc.ca.us.mibbit.net Message of the Day -
+2017-06-23 01:57:48	--	- 15/2/2015 21:40
+2017-06-23 01:57:48	--	- Welcome to irc.mibbit.net
+2017-06-23 01:57:48	--	-  _                      _ _     _     _ _                _
+2017-06-23 01:57:48	--	- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_
+2017-06-23 01:57:48	--	- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+2017-06-23 01:57:48	--	- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_
+2017-06-23 01:57:48	--	- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+2017-06-23 01:57:48	--	-
+2017-06-23 01:57:48	--	- This server is for individuals 13 years or older. Channels that
+2017-06-23 01:57:48	--	- place themselves on Mibbit to issue and supply illegal items,
+2017-06-23 01:57:48	--	- such as File Downloads, Music Tracks or other operations deemed
+2017-06-23 01:57:48	--	- Illegal will be removed, and/or reported to the relevant Internet
+2017-06-23 01:57:48	--	- Service Providers, and/or authorities.
+2017-06-23 01:57:48	--	-
+2017-06-23 01:57:48	--	- Please be friendly and watch your language in public channels.
+2017-06-23 01:57:48	--	- Do not impersonate other users, abuse will not be tolerated.
+2017-06-23 01:57:48	--	-
+2017-06-23 01:57:48	--	- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+2017-06-23 01:57:48	--	-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+2017-06-23 01:57:48	--	-
+2017-06-23 01:57:48	--	- Enjoy your stay :)
+2017-06-23 01:57:48	--	- --axod
+2017-06-23 01:57:48	--	End of /MOTD command.
+2017-06-23 01:57:48	--	User mode [+iwx] by babyelephants
+2017-06-23 01:58:06	--	MSG(nickserv): identify ******
+2017-06-23 01:58:06	--	NickServ (services@services.mibbit.net): Nick babyelephants isn't registered.
+2017-06-23 01:58:18	=!=	irc: this buffer is not a channel!
+2017-06-23 02:01:00	--	irc: connecting to server irc.mibbit.net/6667...
+2017-06-23 02:01:00	--	irc: connected to irc.mibbit.net/6667 (2600:3c01::f03c:91ff:fe89:e893)
+2017-06-23 02:01:00	--	irc.ca.us.mibbit.net: *** Looking up your hostname...
+2017-06-23 02:01:00	--	irc.ca.us.mibbit.net: *** Couldn't resolve your hostname; using your IP address instead
+2017-06-23 02:01:01	--	CTCP requested by IRC: VERSION
+2017-06-23 02:01:01	--	CTCP reply to IRC: VERSION WeeChat 1.7 (Mar 26 2017)
+2017-06-23 02:01:01	--	Welcome to the Mibbit IRC Network babyelephants!jason@2600:8807:5600:195:619b:f502:1501:4a5d
+2017-06-23 02:01:01	--	Your host is irc.ca.us.mibbit.net, running version Unreal3.2.10.4
+2017-06-23 02:01:01	--	This server was created Wed Apr 1 2015 at 22:49:25 UTC
+2017-06-23 02:01:01	--	irc.ca.us.mibbit.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2017-06-23 02:01:01	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2017-06-23 02:01:01	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2017-06-23 02:01:01	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2017-06-23 02:01:01	--	There are 7 users and 2372 invisible on 4 servers
+2017-06-23 02:01:01	--	17 :operator(s) online
+2017-06-23 02:01:01	--	3 :unknown connection(s)
+2017-06-23 02:01:01	--	976 :channels formed
+2017-06-23 02:01:01	--	I have 962 clients and 3 servers
+2017-06-23 02:01:01	--	962 2439 :Current local users 962, max 2439
+2017-06-23 02:01:01	--	2379 7088 :Current global users 2379, max 7088
+2017-06-23 02:01:01	--	- irc.ca.us.mibbit.net Message of the Day -
+2017-06-23 02:01:01	--	- 15/2/2015 21:40
+2017-06-23 02:01:01	--	- Welcome to irc.mibbit.net
+2017-06-23 02:01:01	--	-  _                      _ _     _     _ _                _
+2017-06-23 02:01:01	--	- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_
+2017-06-23 02:01:01	--	- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+2017-06-23 02:01:01	--	- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_
+2017-06-23 02:01:01	--	- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+2017-06-23 02:01:01	--	-
+2017-06-23 02:01:01	--	- This server is for individuals 13 years or older. Channels that
+2017-06-23 02:01:01	--	- place themselves on Mibbit to issue and supply illegal items,
+2017-06-23 02:01:01	--	- such as File Downloads, Music Tracks or other operations deemed
+2017-06-23 02:01:01	--	- Illegal will be removed, and/or reported to the relevant Internet
+2017-06-23 02:01:01	--	- Service Providers, and/or authorities.
+2017-06-23 02:01:01	--	-
+2017-06-23 02:01:01	--	- Please be friendly and watch your language in public channels.
+2017-06-23 02:01:01	--	- Do not impersonate other users, abuse will not be tolerated.
+2017-06-23 02:01:01	--	-
+2017-06-23 02:01:01	--	- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+2017-06-23 02:01:01	--	-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+2017-06-23 02:01:01	--	-
+2017-06-23 02:01:01	--	- Enjoy your stay :)
+2017-06-23 02:01:01	--	- --axod
+2017-06-23 02:01:01	--	End of /MOTD command.
+2017-06-23 02:01:01	--	User mode [+iwx] by babyelephants
+2017-06-23 02:01:07	--	bipolarreddit: No such channel
+2017-06-24 02:24:09	--	irc: connecting to server irc.mibbit.net/6667...
+2017-06-24 02:24:09	--	irc: connected to irc.mibbit.net/6667 (2600:3c01::f03c:91ff:fe89:e893)
+2017-06-24 02:24:09	--	irc.ca.us.mibbit.net: *** Looking up your hostname...
+2017-06-24 02:24:09	--	irc.ca.us.mibbit.net: *** Couldn't resolve your hostname; using your IP address instead
+2017-06-24 02:24:10	--	CTCP requested by IRC: VERSION
+2017-06-24 02:24:10	--	CTCP reply to IRC: VERSION WeeChat 1.7 (Mar 26 2017)
+2017-06-24 02:24:10	--	Welcome to the Mibbit IRC Network babyelephants!jason@2600:8807:5600:195:6465:5102:513a:e386
+2017-06-24 02:24:10	--	Your host is irc.ca.us.mibbit.net, running version Unreal3.2.10.4
+2017-06-24 02:24:10	--	This server was created Wed Apr 1 2015 at 22:49:25 UTC
+2017-06-24 02:24:10	--	irc.ca.us.mibbit.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2017-06-24 02:24:10	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2017-06-24 02:24:10	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2017-06-24 02:24:10	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2017-06-24 02:24:10	--	There are 7 users and 2710 invisible on 4 servers
+2017-06-24 02:24:10	--	17 :operator(s) online
+2017-06-24 02:24:10	--	910 :channels formed
+2017-06-24 02:24:10	--	I have 1001 clients and 3 servers
+2017-06-24 02:24:10	--	1001 2439 :Current local users 1001, max 2439
+2017-06-24 02:24:10	--	2717 7088 :Current global users 2717, max 7088
+2017-06-24 02:24:10	--	- irc.ca.us.mibbit.net Message of the Day -
+2017-06-24 02:24:10	--	- 15/2/2015 21:40
+2017-06-24 02:24:10	--	- Welcome to irc.mibbit.net
+2017-06-24 02:24:10	--	-  _                      _ _     _     _ _                _
+2017-06-24 02:24:10	--	- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_
+2017-06-24 02:24:10	--	- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+2017-06-24 02:24:10	--	- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_
+2017-06-24 02:24:10	--	- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+2017-06-24 02:24:10	--	-
+2017-06-24 02:24:10	--	- This server is for individuals 13 years or older. Channels that
+2017-06-24 02:24:10	--	- place themselves on Mibbit to issue and supply illegal items,
+2017-06-24 02:24:10	--	- such as File Downloads, Music Tracks or other operations deemed
+2017-06-24 02:24:10	--	- Illegal will be removed, and/or reported to the relevant Internet
+2017-06-24 02:24:10	--	- Service Providers, and/or authorities.
+2017-06-24 02:24:10	--	-
+2017-06-24 02:24:10	--	- Please be friendly and watch your language in public channels.
+2017-06-24 02:24:10	--	- Do not impersonate other users, abuse will not be tolerated.
+2017-06-24 02:24:10	--	-
+2017-06-24 02:24:10	--	- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+2017-06-24 02:24:10	--	-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+2017-06-24 02:24:10	--	-
+2017-06-24 02:24:10	--	- Enjoy your stay :)
+2017-06-24 02:24:10	--	- --axod
+2017-06-24 02:24:10	--	End of /MOTD command.
+2017-06-24 02:24:10	--	User mode [+iwx] by babyelephants
+2017-06-24 02:24:17	--	bipolarreddit: No such channel
+2017-07-04 01:57:27	--	irc: connecting to server irc.mibbit.net/6667...
+2017-07-04 01:57:27	--	irc: connected to irc.mibbit.net/6667 (54.174.129.87)
+2017-07-04 01:57:27	--	irc.us.mibbit.net: *** Looking up your hostname...
+2017-07-04 01:57:27	--	irc.us.mibbit.net: *** Found your hostname
+2017-07-04 01:57:27	--	CTCP requested by IRC: VERSION
+2017-07-04 01:57:27	--	CTCP reply to IRC: VERSION WeeChat 1.7 (Mar 26 2017)
+2017-07-04 01:57:27	--	Welcome to the Mibbit IRC Network babyelephants!jason@ip-132-240-239-173.midwest.us.northamericancoax.com
+2017-07-04 01:57:27	--	Your host is irc.us.mibbit.net, running version Unreal3.2.10.4
+2017-07-04 01:57:27	--	This server was created Sun Mar 8 2015 at 19:37:15 UTC
+2017-07-04 01:57:27	--	irc.us.mibbit.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2017-07-04 01:57:27	--	UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 :are supported by this server
+2017-07-04 01:57:27	--	WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ :are supported by this server
+2017-07-04 01:57:27	--	EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS :are supported by this server
+2017-07-04 01:57:27	--	There are 8 users and 2459 invisible on 4 servers
+2017-07-04 01:57:27	--	18 :operator(s) online
+2017-07-04 01:57:27	--	2 :unknown connection(s)
+2017-07-04 01:57:27	--	942 :channels formed
+2017-07-04 01:57:27	--	I have 694 clients and 1 servers
+2017-07-04 01:57:27	--	694 3260 :Current local users 694, max 3260
+2017-07-04 01:57:27	--	2467 7088 :Current global users 2467, max 7088
+2017-07-04 01:57:27	--	- irc.us.mibbit.net Message of the Day -
+2017-07-04 01:57:27	--	- 2/12/2014 13:42
+2017-07-04 01:57:27	--	- Welcome to irc.mibbit.net
+2017-07-04 01:57:27	--	-  _                      _ _     _     _ _                _
+2017-07-04 01:57:27	--	- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_
+2017-07-04 01:57:27	--	- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+2017-07-04 01:57:27	--	- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_
+2017-07-04 01:57:27	--	- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+2017-07-04 01:57:27	--	-
+2017-07-04 01:57:27	--	- This server is for individuals 13 years or older. Channels that
+2017-07-04 01:57:27	--	- place themselves on Mibbit to issue and supply illegal items,
+2017-07-04 01:57:27	--	- such as File Downloads, Music Tracks or other operations deemed
+2017-07-04 01:57:27	--	- Illegal will be removed, and/or reported to the relevant Internet
+2017-07-04 01:57:27	--	- Service Providers, and/or authorities.
+2017-07-04 01:57:27	--	-
+2017-07-04 01:57:27	--	- Please be friendly and watch your language in public channels.
+2017-07-04 01:57:27	--	- Do not impersonate other users, abuse will not be tolerated.
+2017-07-04 01:57:27	--	-
+2017-07-04 01:57:27	--	- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+2017-07-04 01:57:27	--	-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+2017-07-04 01:57:27	--	-
+2017-07-04 01:57:27	--	- Enjoy your stay :)
+2017-07-04 01:57:27	--	- --axod
+2017-07-04 01:57:27	--	End of /MOTD command.
+2017-07-04 01:57:27	--	User mode [+iwx] by babyelephants
+2017-07-04 01:58:19	=!=	irc: this buffer is not a channel!
+2017-07-04 01:58:24	=!=	irc: this buffer is not a channel!
+2017-07-04 01:58:28	=!=	irc: this buffer is not a channel!
+2017-07-04 01:58:32	=!=	irc: this buffer is not a channel!
+2017-07-04 01:58:44	--	irc: connecting to server irc.mibbit.net/6667...
+2017-07-04 01:58:44	--	irc: connected to irc.mibbit.net/6667 (2600:3c01::f03c:91ff:fe89:e893)
+2017-07-04 01:58:44	--	irc.ca.us.mibbit.net: *** Looking up your hostname...
+2017-07-04 01:58:45	--	irc.ca.us.mibbit.net: *** Couldn't resolve your hostname; using your IP address instead
+2017-07-04 01:58:45	--	irc: nickname "babyelephants" is already in use, trying nickname "babyelep1"
+2017-07-04 01:58:45	--	CTCP requested by IRC: VERSION
+2017-07-04 01:58:45	--	CTCP reply to IRC: VERSION WeeChat 1.7 (Mar 26 2017)
+2017-07-04 01:58:45	--	Welcome to the Mibbit IRC Network babyelep1!jason@2600:8807:5600:195:a4e2:20b5:59f0:c2e0
+2017-07-04 01:58:45	--	Your host is irc.ca.us.mibbit.net, running version Unreal3.2.10.4
+2017-07-04 01:58:45	--	This server was created Wed Apr 1 2015 at 22:49:25 UTC
+2017-07-04 01:58:45	--	irc.ca.us.mibbit.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2017-07-04 01:58:45	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2017-07-04 01:58:45	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2017-07-04 01:58:45	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2017-07-04 01:58:45	--	There are 8 users and 2467 invisible on 4 servers
+2017-07-04 01:58:45	--	18 :operator(s) online
+2017-07-04 01:58:45	--	6 :unknown connection(s)
+2017-07-04 01:58:45	--	941 :channels formed
+2017-07-04 01:58:45	--	I have 998 clients and 2 servers
+2017-07-04 01:58:45	--	998 2439 :Current local users 998, max 2439
+2017-07-04 01:58:45	--	2475 7088 :Current global users 2475, max 7088
+2017-07-04 01:58:45	--	- irc.ca.us.mibbit.net Message of the Day -
+2017-07-04 01:58:45	--	- 15/2/2015 21:40
+2017-07-04 01:58:45	--	- Welcome to irc.mibbit.net
+2017-07-04 01:58:45	--	-  _                      _ _     _     _ _                _
+2017-07-04 01:58:45	--	- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_
+2017-07-04 01:58:45	--	- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+2017-07-04 01:58:45	--	- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_
+2017-07-04 01:58:45	--	- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+2017-07-04 01:58:45	--	-
+2017-07-04 01:58:45	--	- This server is for individuals 13 years or older. Channels that
+2017-07-04 01:58:45	--	- place themselves on Mibbit to issue and supply illegal items,
+2017-07-04 01:58:45	--	- such as File Downloads, Music Tracks or other operations deemed
+2017-07-04 01:58:45	--	- Illegal will be removed, and/or reported to the relevant Internet
+2017-07-04 01:58:45	--	- Service Providers, and/or authorities.
+2017-07-04 01:58:45	--	-
+2017-07-04 01:58:45	--	- Please be friendly and watch your language in public channels.
+2017-07-04 01:58:45	--	- Do not impersonate other users, abuse will not be tolerated.
+2017-07-04 01:58:45	--	-
+2017-07-04 01:58:45	--	- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+2017-07-04 01:58:45	--	-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+2017-07-04 01:58:45	--	-
+2017-07-04 01:58:45	--	- Enjoy your stay :)
+2017-07-04 01:58:45	--	- --axod
+2017-07-04 01:58:45	--	End of /MOTD command.
+2017-07-04 01:58:45	--	User mode [+iwx] by babyelep1
+2017-07-04 01:58:55	=!=	irc: this buffer is not a channel!
+2017-07-04 02:01:51	--	You are now known as babyelephants
+2017-07-04 20:22:30	--	irc: connecting to server irc.mibbit.net/6667...
+2017-07-04 20:22:30	--	irc: connected to irc.mibbit.net/6667 (2600:3c01::f03c:91ff:fe89:e893)
+2017-07-04 20:22:30	--	irc.ca.us.mibbit.net: *** Looking up your hostname...
+2017-07-04 20:22:30	--	irc.ca.us.mibbit.net: *** Couldn't resolve your hostname; using your IP address instead
+2017-07-04 20:22:30	--	CTCP requested by IRC: VERSION
+2017-07-04 20:22:30	--	CTCP reply to IRC: VERSION WeeChat 1.7 (Mar 26 2017)
+2017-07-04 20:22:30	--	Welcome to the Mibbit IRC Network babyelephants!jason@2600:8807:5600:195:6456:85b8:2171:62eb
+2017-07-04 20:22:30	--	Your host is irc.ca.us.mibbit.net, running version Unreal3.2.10.4
+2017-07-04 20:22:30	--	This server was created Wed Apr 1 2015 at 22:49:25 UTC
+2017-07-04 20:22:30	--	irc.ca.us.mibbit.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2017-07-04 20:22:30	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2017-07-04 20:22:30	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2017-07-04 20:22:30	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2017-07-04 20:22:30	--	There are 9 users and 2913 invisible on 4 servers
+2017-07-04 20:22:30	--	17 :operator(s) online
+2017-07-04 20:22:30	--	5 :unknown connection(s)
+2017-07-04 20:22:30	--	945 :channels formed
+2017-07-04 20:22:30	--	I have 1019 clients and 2 servers
+2017-07-04 20:22:30	--	1019 2439 :Current local users 1019, max 2439
+2017-07-04 20:22:30	--	2922 7088 :Current global users 2922, max 7088
+2017-07-04 20:22:30	--	- irc.ca.us.mibbit.net Message of the Day -
+2017-07-04 20:22:30	--	- 15/2/2015 21:40
+2017-07-04 20:22:30	--	- Welcome to irc.mibbit.net
+2017-07-04 20:22:30	--	-  _                      _ _     _     _ _                _
+2017-07-04 20:22:30	--	- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_
+2017-07-04 20:22:30	--	- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+2017-07-04 20:22:30	--	- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_
+2017-07-04 20:22:31	--	- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+2017-07-04 20:22:31	--	-
+2017-07-04 20:22:31	--	- This server is for individuals 13 years or older. Channels that
+2017-07-04 20:22:31	--	- place themselves on Mibbit to issue and supply illegal items,
+2017-07-04 20:22:31	--	- such as File Downloads, Music Tracks or other operations deemed
+2017-07-04 20:22:31	--	- Illegal will be removed, and/or reported to the relevant Internet
+2017-07-04 20:22:31	--	- Service Providers, and/or authorities.
+2017-07-04 20:22:31	--	-
+2017-07-04 20:22:31	--	- Please be friendly and watch your language in public channels.
+2017-07-04 20:22:31	--	- Do not impersonate other users, abuse will not be tolerated.
+2017-07-04 20:22:31	--	-
+2017-07-04 20:22:31	--	- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+2017-07-04 20:22:31	--	-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+2017-07-04 20:22:31	--	-
+2017-07-04 20:22:31	--	- Enjoy your stay :)
+2017-07-04 20:22:31	--	- --axod
+2017-07-04 20:22:31	--	End of /MOTD command.
+2017-07-04 20:22:31	--	User mode [+iwx] by babyelephants
+2017-07-04 20:29:52	=!=	irc: this buffer is not a channel!
+2017-08-31 00:01:36	--	irc: connecting to server irc.mibbit.net/6667...
+2017-08-31 00:01:37	--	irc: connected to irc.mibbit.net/6667 (2600:3c01::f03c:91ff:fe89:e893)
+2017-08-31 00:01:37	--	irc.ca.us.mibbit.net: *** Looking up your hostname...
+2017-08-31 00:01:37	--	irc.ca.us.mibbit.net: *** Couldn't resolve your hostname; using your IP address instead
+2017-08-31 00:01:37	--	CTCP requested by IRC: VERSION
+2017-08-31 00:01:37	--	CTCP reply to IRC: VERSION WeeChat 1.7 (Mar 26 2017)
+2017-08-31 00:01:37	--	Welcome to the Mibbit IRC Network babyelephants!jason@2600:8807:5600:195:9508:db32:6186:9b17
+2017-08-31 00:01:37	--	Your host is irc.ca.us.mibbit.net, running version Unreal3.2.10.4
+2017-08-31 00:01:37	--	This server was created Wed Apr 1 2015 at 22:49:25 UTC
+2017-08-31 00:01:37	--	irc.ca.us.mibbit.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2017-08-31 00:01:37	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2017-08-31 00:01:37	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2017-08-31 00:01:37	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2017-08-31 00:01:37	--	There are 6 users and 2673 invisible on 4 servers
+2017-08-31 00:01:37	--	20 :operator(s) online
+2017-08-31 00:01:37	--	913 :channels formed
+2017-08-31 00:01:37	--	I have 1007 clients and 2 servers
+2017-08-31 00:01:37	--	1007 2439 :Current local users 1007, max 2439
+2017-08-31 00:01:37	--	2679 7088 :Current global users 2679, max 7088
+2017-08-31 00:01:37	--	- irc.ca.us.mibbit.net Message of the Day -
+2017-08-31 00:01:37	--	- 15/2/2015 21:40
+2017-08-31 00:01:37	--	- Welcome to irc.mibbit.net
+2017-08-31 00:01:37	--	-  _                      _ _     _     _ _                _
+2017-08-31 00:01:37	--	- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_
+2017-08-31 00:01:37	--	- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+2017-08-31 00:01:37	--	- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_
+2017-08-31 00:01:37	--	- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+2017-08-31 00:01:37	--	-
+2017-08-31 00:01:37	--	- This server is for individuals 13 years or older. Channels that
+2017-08-31 00:01:37	--	- place themselves on Mibbit to issue and supply illegal items,
+2017-08-31 00:01:37	--	- such as File Downloads, Music Tracks or other operations deemed
+2017-08-31 00:01:37	--	- Illegal will be removed, and/or reported to the relevant Internet
+2017-08-31 00:01:37	--	- Service Providers, and/or authorities.
+2017-08-31 00:01:37	--	-
+2017-08-31 00:01:37	--	- Please be friendly and watch your language in public channels.
+2017-08-31 00:01:37	--	- Do not impersonate other users, abuse will not be tolerated.
+2017-08-31 00:01:37	--	-
+2017-08-31 00:01:37	--	- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+2017-08-31 00:01:37	--	-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+2017-08-31 00:01:37	--	-
+2017-08-31 00:01:37	--	- Enjoy your stay :)
+2017-08-31 00:01:37	--	- --axod
+2017-08-31 00:01:37	--	End of /MOTD command.
+2017-08-31 00:01:37	--	User mode [+iwx] by babyelephants
+2017-08-31 00:01:58	--	bipolarreddit: No such channel
+2017-08-31 00:02:51	--	irc: connecting to server irc.mibbit.net/6667...
+2017-08-31 00:02:51	--	irc: connected to irc.mibbit.net/6667 (2600:3c01::f03c:91ff:fe89:e893)
+2017-08-31 00:02:51	--	irc.ca.us.mibbit.net: *** Looking up your hostname...
+2017-08-31 00:02:51	--	irc.ca.us.mibbit.net: *** Couldn't resolve your hostname; using your IP address instead
+2017-08-31 00:02:51	--	CTCP requested by IRC: VERSION
+2017-08-31 00:02:51	--	CTCP reply to IRC: VERSION WeeChat 1.7 (Mar 26 2017)
+2017-08-31 00:02:51	--	Welcome to the Mibbit IRC Network babyelephants!jason@2600:8807:5600:195:9508:db32:6186:9b17
+2017-08-31 00:02:51	--	Your host is irc.ca.us.mibbit.net, running version Unreal3.2.10.4
+2017-08-31 00:02:51	--	This server was created Wed Apr 1 2015 at 22:49:25 UTC
+2017-08-31 00:02:51	--	irc.ca.us.mibbit.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2017-08-31 00:02:51	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:120,e:120,I:120 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2017-08-31 00:02:51	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=Mibbit CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2017-08-31 00:02:51	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2017-08-31 00:02:51	--	There are 6 users and 2662 invisible on 4 servers
+2017-08-31 00:02:51	--	20 :operator(s) online
+2017-08-31 00:02:51	--	2 :unknown connection(s)
+2017-08-31 00:02:51	--	913 :channels formed
+2017-08-31 00:02:51	--	I have 1012 clients and 2 servers
+2017-08-31 00:02:51	--	1012 2439 :Current local users 1012, max 2439
+2017-08-31 00:02:51	--	2668 7088 :Current global users 2668, max 7088
+2017-08-31 00:02:51	--	- irc.ca.us.mibbit.net Message of the Day -
+2017-08-31 00:02:51	--	- 15/2/2015 21:40
+2017-08-31 00:02:51	--	- Welcome to irc.mibbit.net
+2017-08-31 00:02:51	--	-  _                      _ _     _     _ _                _
+2017-08-31 00:02:51	--	- (_)_ __ ___   _ __ ___ (_) |__ | |__ (_) |_   _ __   ___| |_
+2017-08-31 00:02:51	--	- | | '__/ __| | '_ ` _ \| | '_ \| '_ \| | __| | '_ \ / _ \ __|
+2017-08-31 00:02:51	--	- | | | | (__ _| | | | | | | |_) | |_) | | |_ _| | | |  __/ |_
+2017-08-31 00:02:51	--	- |_|_|  \___(_)_| |_| |_|_|_.__/|_.__/|_|\__(_)_| |_|\___|\__|
+2017-08-31 00:02:51	--	-
+2017-08-31 00:02:51	--	- This server is for individuals 13 years or older. Channels that
+2017-08-31 00:02:51	--	- place themselves on Mibbit to issue and supply illegal items,
+2017-08-31 00:02:51	--	- such as File Downloads, Music Tracks or other operations deemed
+2017-08-31 00:02:51	--	- Illegal will be removed, and/or reported to the relevant Internet
+2017-08-31 00:02:51	--	- Service Providers, and/or authorities.
+2017-08-31 00:02:51	--	-
+2017-08-31 00:02:51	--	- Please be friendly and watch your language in public channels.
+2017-08-31 00:02:51	--	- Do not impersonate other users, abuse will not be tolerated.
+2017-08-31 00:02:51	--	-
+2017-08-31 00:02:51	--	- Mibbit Staff:  Axod    Azander  Fastundia  Havvy   Hercule
+2017-08-31 00:02:51	--	-                Joshua  Kitsune  Molkmin    Pottsi  Sindacious
+2017-08-31 00:02:51	--	-
+2017-08-31 00:02:51	--	- Enjoy your stay :)
+2017-08-31 00:02:51	--	- --axod
+2017-08-31 00:02:51	--	End of /MOTD command.
+2017-08-31 00:02:51	--	User mode [+iwx] by babyelephants

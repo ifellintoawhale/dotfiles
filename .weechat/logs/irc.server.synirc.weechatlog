@@ -1,0 +1,577 @@
+2017-03-26 02:50:20	--	irc: connecting to server irc.synirc.net/6667...
+2017-03-26 02:50:20	--	irc: connected to irc.synirc.net/6667 (2600:3c01::f03c:91ff:fe50:78f1)
+2017-03-26 02:50:20	--	logik.ca.us.synirc.net: *** Looking up your hostname...
+2017-03-26 02:50:20	--	logik.ca.us.synirc.net: *** Checking ident...
+2017-03-26 02:50:20	--	logik.ca.us.synirc.net: *** Couldn't resolve your hostname; using your IP address instead
+2017-03-26 02:50:21	--	logik.ca.us.synirc.net: *** No ident response; username prefixed with ~
+2017-03-26 02:50:21	--	irc: nickname "jason" is already in use, trying nickname "jason1"
+2017-03-26 02:50:22	--	Welcome to the synIRC IRC Network jason1!~jason@2600:8807:4000:187:b440:3062:2de9:b8db
+2017-03-26 02:50:22	--	Your host is logik.ca.us.synirc.net, running version Unreal3.2.10.7
+2017-03-26 02:50:22	--	This server was created Tue Sep 6 2016 at 14:41:34 AEST
+2017-03-26 02:50:22	--	logik.ca.us.synirc.net Unreal3.2.10.7 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2017-03-26 02:50:22	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2017-03-26 02:50:22	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=synIRC CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2017-03-26 02:50:22	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2017-03-26 02:50:22	--	There are 28 users and 4862 invisible on 17 servers
+2017-03-26 02:50:22	--	26 :operator(s) online
+2017-03-26 02:50:22	--	2024 :channels formed
+2017-03-26 02:50:22	--	I have 754 clients and 0 servers
+2017-03-26 02:50:22	--	754 878 :Current local users 754, max 878
+2017-03-26 02:50:22	--	4890 8248 :Current global users 4890, max 8248
+2017-03-26 02:50:22	--	- logik.ca.us.synirc.net Message of the Day -
+2017-03-26 02:50:22	--	- 12/2/2017 4:04
+2017-03-26 02:50:22	--	-                       IIIII RRRRRR   CCCCC
+2017-03-26 02:50:22	--	-  sss  yy   yy nn nnn   III  RR   RR CC    C
+2017-03-26 02:50:22	--	- s     yy   yy nnn  nn  III  RRRRRR  CC
+2017-03-26 02:50:22	--	-  sss   yyyyyy nn   nn  III  RR  RR  CC    C
+2017-03-26 02:50:22	--	-     s      yy nn   nn IIIII RR   RR  CCCCC
+2017-03-26 02:50:22	--	-  sss   yyyyy         logik.ca.us.synirc.net
+2017-03-26 02:50:22	--	-
+2017-03-26 02:50:22	--	-
+2017-03-26 02:50:22	--	- Welcome to synIRC!
+2017-03-26 02:50:22	--	-
+2017-03-26 02:50:22	--	- By connecting to synIRC, you agree to abide by the charter
+2017-03-26 02:50:22	--	- which can be found at https://synirc.net/charter
+2017-03-26 02:50:22	--	-
+2017-03-26 02:50:22	--	- All servers also run proxy scanners. By connecting, you
+2017-03-26 02:50:22	--	- consent to have your IP address scanned for open proxies.
+2017-03-26 02:50:22	--	- These IP scans will originate from the IP of the server you
+2017-03-26 02:50:22	--	- connected to.
+2017-03-26 02:50:22	--	-
+2017-03-26 02:50:22	--	- If you require network assistance, please join #help.
+2017-03-26 02:50:22	--	-
+2017-03-26 02:50:22	--	- Behind a firewall? synIRC is also reachable at the address
+2017-03-26 02:50:22	--	- port80.synirc.net, port 80 and 443 (SSL).
+2017-03-26 02:50:22	--	-
+2017-03-26 02:50:22	--	End of /MOTD command.
+2017-03-26 02:50:22	--	User mode [+ix] by jason1
+2017-03-26 02:50:22	--	Global (services@services.synirc.net): [Logon News - Oct 09 2014] Follow us on Twitter @synIRC - http://twitter.com/synirc
+2017-03-26 02:50:31	--	You are now known as babyelephants
+2017-03-26 04:31:02	--	irc: connecting to server irc.synirc.net/6667...
+2017-03-26 04:32:02	=!=	irc: timeout
+2017-03-26 04:32:02	--	irc: reconnecting to server in 10 seconds
+2017-03-26 04:32:12	--	irc: reconnecting to server...
+2017-03-26 04:32:12	--	irc: connecting to server irc.synirc.net/6667...
+2017-03-26 04:32:12	--	irc: connected to irc.synirc.net/6667 (188.117.6.74)
+2017-03-26 04:32:12	--	naamio.fi.eu.synirc.net: *** Looking up your hostname...
+2017-03-26 04:32:12	--	naamio.fi.eu.synirc.net: *** Checking ident...
+2017-03-26 04:32:12	--	naamio.fi.eu.synirc.net: *** Found your hostname
+2017-03-26 04:32:17	--	naamio.fi.eu.synirc.net: *** No ident response; username prefixed with ~
+2017-03-26 04:32:17	--	Welcome to the synIRC IRC Network babyelephants!~jason@ip72-200-2-236.no.no.cox.net
+2017-03-26 04:32:17	--	Your host is naamio.fi.eu.synirc.net, running version Unreal3.2.10.6
+2017-03-26 04:32:17	--	This server was created ma 22.2.2016 18.39.00  at +0200
+2017-03-26 04:32:17	--	naamio.fi.eu.synirc.net Unreal3.2.10.6 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2017-03-26 04:32:17	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2017-03-26 04:32:17	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=synIRC CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2017-03-26 04:32:17	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2017-03-26 04:32:17	--	There are 28 users and 4806 invisible on 17 servers
+2017-03-26 04:32:17	--	26 :operator(s) online
+2017-03-26 04:32:17	--	1 :unknown connection(s)
+2017-03-26 04:32:17	--	2009 :channels formed
+2017-03-26 04:32:17	--	I have 658 clients and 0 servers
+2017-03-26 04:32:17	--	658 762 :Current local users 658, max 762
+2017-03-26 04:32:17	--	4834 8248 :Current global users 4834, max 8248
+2017-03-26 04:32:17	--	- naamio.fi.eu.synirc.net Message of the Day -
+2017-03-26 04:32:17	--	- 31/1/2017 1:33
+2017-03-26 04:32:17	--	-                                  ,A
+2017-03-26 04:32:17	--	-      __                         g@@
+2017-03-26 04:32:17	--	-             A.                 d@V@
+2017-03-26 04:32:17	--	-   __        i@b               iA` @                    .A
+2017-03-26 04:32:17	--	-    __       i@V@s            dA`  @                   ,@@i
+2017-03-26 04:32:17	--	-             i@ '*@Ws______mW@f    @@                  ]@@@
+2017-03-26 04:32:17	--	-     __       @]  '^********f`     @@@                g@!l@
+2017-03-26 04:32:17	--	-      __      @b           .  ,g   @@@W             ,W@[ l@
+2017-03-26 04:32:17	--	-   __         ]@   Mmmmmf  ~**f^   @@^@@Wm_.      _g@@`  l@
+2017-03-26 04:32:17	--	-    __         M[    ^^      ^^    @@  ^*@@@@@@@@@@@f`   l@
+2017-03-26 04:32:17	--	-               ]@i  '[]`  . '[]`   @@      ~~~~~~~`      l@
+2017-03-26 04:32:17	--	-  ☴            '@W       |[        @@               _.   l@
+2017-03-26 04:32:17	--	-    __   __     Y@i      'Ns    .  @@   _m@@m,    g*~VWi l@
+2017-03-26 04:32:17	--	-    ☴☴__   __    M@. ,.       g@` ]@@  gP    V,  '  m- ` l@
+2017-03-26 04:32:17	--	-                 '@W  Vmmmmmm@f   @@@. ~  m-    g   '    l@
+2017-03-26 04:32:17	--	-      ☴☴__        '@b  'V***f    g@A@W    '     @        l@
+2017-03-26 04:32:17	--	-               __  '*W_         g@A`M@b       g M_.      l@
+2017-03-26 04:32:17	--	-         ☴___   _    'VMms___gW@@f   @@.      '- ~`      W@
+2017-03-26 04:32:17	--	-                        ~*****f~`     @@.     ,_m@Ws__   @@
+2017-03-26 04:32:17	--	-          ☴☴    ____    ___     __    '@@.   gA~`   ~~* ]@P                 *
+2017-03-26 04:32:17	--	-                  ___       ___ ___     M@s.'`         g@A              \O_/
+2017-03-26 04:32:17	--	-                     __     _  __ __     V@@Ws.    __m@@A                |
+2017-03-26 04:32:17	--	-                                           ~*M@@@@@@@@*`                / \
+2017-03-26 04:32:17	--	- ---.____.--~~~~~~--.____.--~~~~~~--.____.--~~~~~~--.____.--~~~~~~--.____.
+2017-03-26 04:32:17	--	-             ____            ____            ____            ____         \_
+2017-03-26 04:32:17	--	- /'.      .'~    ~'.      .'~  . ~'.      .'~    ~'.      .'~    ~'.      . |_
+2017-03-26 04:32:17	--	- (  \    /   .      \    /   .       \   /       .  \    /       .  \    /    |_
+2017-03-26 04:32:17	--	-  )  Y  Y   .  __    Y  Y       ***  Y  Y     .      Y  Y       .    Y  Y   O  ^^^
+2017-03-26 04:32:17	--	- (   |  |     /o \/  |  | *___* \|/  |  |   .        |  |  \   .     |  | .o
+2017-03-26 04:32:17	--	-  )  |  | {   \__/\  |  | (o_o)  |   |  |  __        |  |  /\  .     |  | ___//_
+2017-03-26 04:32:18	--	- (   |  |  }         |  |--)_(--<|   |  | <'_><      |  |>=)'>       |  |/o )   \/
+2017-03-26 04:32:18	--	-  )  |__| {          |__| _( )_      |__|  `         |__|  \/        |__|)___\\_/\
+2017-03-26 04:32:18	--	- (................................................................................
+2017-03-26 04:32:18	--	- ..   synIRC - www.synirc.net                                                   ..
+2017-03-26 04:32:18	--	- ..                                                                             ..
+2017-03-26 04:32:18	--	- ..   IPv4 / IPv6 / SSL                                                         ..
+2017-03-26 04:32:18	--	- ..   naamio.fi.eu.synirc.net / naamio.synirc.net                               ..
+2017-03-26 04:32:18	--	- ..                                                                             ..
+2017-03-26 04:32:18	--	- ..   Säännöt:
+2017-03-26 04:32:18	--	- ..   Tor, socksit ja proxyt eivät ole sallittuja.                              .
+2017-03-26 04:32:18	--	- ..   Botit ovat ok mikäli eivät aiheuta häiriötä verkolle tai käyttäjille.
+2017-03-26 04:32:18	--	- ..   Max viisi (5) yhteyttä per IP. Mahdollista saada pyytämällä enemmän.
+2017-03-26 04:32:18	--	- ..   Kanavanvaltailut, floodaus, spammaus yms. perseily on kiellettyä.         .
+2017-03-26 04:32:18	--	- ..   Lue myös: http://www.synirc.net/charter/                                  .
+2017-03-26 04:32:18	--	- ..                                                                             ..
+2017-03-26 04:32:18	--	- .................................................................................
+2017-03-26 04:32:18	--	- ..   synIRC - www.synirc.net                                                   ..
+2017-03-26 04:32:18	--	- ..                                                                             ..
+2017-03-26 04:32:18	--	- ..   IPv4 / IPv6 / SSL                                                         ..
+2017-03-26 04:32:18	--	- ..   naamio.fi.eu.synirc.net / naamio.synirc.net                               ..
+2017-03-26 04:32:18	--	- ..                                                                             ..
+2017-03-26 04:32:18	--	- ..   Rules:                                                                    ..
+2017-03-26 04:32:18	--	- ..   TOR, SOCKS or proxies are NOT allowed.                                    ..
+2017-03-26 04:32:18	--	- ..   Bots are ok as long as they are not used to harass                        ..
+2017-03-26 04:32:18	--	- ..   other users or the network.                                               ..
+2017-03-26 04:32:18	--	- ..   Maximum of five (5) connections per IP. If you need more connections,     ..
+2017-03-26 04:32:18	--	- ..   contact administration.                                                   ..
+2017-03-26 04:32:18	--	- ..   Channel takeovers, flooding, spamming and general abuse around IRC are    ..
+2017-03-26 04:32:18	--	- ..   not allowed.                                                              ..
+2017-03-26 04:32:18	--	- ..   Read also:   http://www.synirc.net/charter/                               ..
+2017-03-26 04:32:18	--	- ..                                                                             ..
+2017-03-26 04:32:18	--	- .................................................................................
+2017-03-26 04:32:18	--	- ..                                                         /
+2017-03-26 04:32:18	--	- ..  #SynIRC General channel [ENGLISH]               *     /
+2017-03-26 04:32:18	--	- ..  #Help Help channel      [ENGLISH]           *        /
+2017-03-26 04:32:18	--	- ..                                                      /
+2017-03-26 04:32:18	--	- ..                                                     /
+2017-03-26 04:32:18	--	- ..  ..Are you awakened to your purpose yet?      *    /
+2017-03-26 04:32:18	--	- ..  #StarSeeds     [SUOMEKSI/ENGLISH]   _..._        /
+2017-03-26 04:32:18	--	- ..                                    .'     `.     /
+2017-03-26 04:32:18	--	- ..     *    *        .   *       *   :  O   o  :   /
+2017-03-26 04:32:18	--	- .. *             .   :   .           :    x    :  /
+2017-03-26 04:32:18	--	- ..           '.   .  :  .   .'       `. (___) .' /
+2017-03-26 04:32:18	--	- ..        ._   '._.-'''-._.'   _.      `-...-'  /
+2017-03-26 04:32:18	--	- ..  *       '-..'         '..-'                /
+2017-03-26 04:32:18	--	- ..       --._ /.==.     .==.\ _.--            /
+2017-03-26 04:32:18	--	- ..           ;/_o__\   /_o__\;        *  *   /
+2017-03-26 04:32:18	--	- .. *    -----|`     ) (     `|-----         /
+2017-03-26 04:32:18	--	- ..          _: \_) (\_/) (_/ ;_        *   /
+2017-03-26 04:32:18	--	- ..  *    --'  \  '._.=._.'  /  '--        /
+2017-03-26 04:32:18	--	- ..         _.-''.  '._.'  .''-._         /
+2017-03-26 04:32:18	--	- ..  *     '    .''-.(_).-''.    '  *    /
+2017-03-26 04:32:18	--	- ..     *      .'   '  :  '   '.        /
+2017-03-26 04:32:18	--	- ..  *           '    :   '            /
+2017-03-26 04:32:18	--	- ..     *             '          *    /
+2017-03-26 04:32:18	--	- ..................................../
+2017-03-26 04:32:18	--	-        ",`-.',:          '",`-.',:
+2017-03-26 04:32:18	--	-       "`,':,';           "`':,.';
+2017-03-26 04:32:18	--	-       '; ' ,:            ';' , :
+2017-03-26 04:32:18	--	-       . '. . ".          .'. .  ".
+2017-03-26 04:32:18	--	-       ,"-'". .,"         ,"'". . ,"
+2017-03-26 04:32:18	--	-        |___|`"           /___/`"
+2017-03-26 04:32:18	--	-          |___|            /___/
+2017-03-26 04:32:18	--	-            |___|           /___/
+2017-03-26 04:32:18	--	-              |___|          /___/
+2017-03-26 04:32:18	--	-               |___|         /___/
+2017-03-26 04:32:18	--	-               |___|        /___/
+2017-03-26 04:32:18	--	-              |___|       /___/
+2017-03-26 04:32:18	--	-            |___|      /___/
+2017-03-26 04:32:18	--	-          |___|      /___/
+2017-03-26 04:32:18	--	-          ( + )      ( - )
+2017-03-26 04:32:18	--	-
+2017-03-26 04:32:18	--	End of /MOTD command.
+2017-03-26 04:32:18	--	User mode [+ix] by babyelephants
+2017-03-26 04:32:18	--	Global (services@services.synirc.net): [Logon News - Oct 09 2014] Follow us on Twitter @synIRC - http://twitter.com/synirc
+2017-03-26 16:44:57	--	irc: connecting to server irc.synirc.net/6667...
+2017-03-26 16:45:57	=!=	irc: timeout
+2017-03-26 16:45:57	--	irc: reconnecting to server in 10 seconds
+2017-03-26 16:46:07	--	irc: reconnecting to server...
+2017-03-26 16:46:07	--	irc: connecting to server irc.synirc.net/6667...
+2017-03-26 16:46:08	--	irc: connected to irc.synirc.net/6667 (85.17.155.18)
+2017-03-26 16:46:08	--	fluffypony.nl.eu.synirc.net: *** Looking up your hostname...
+2017-03-26 16:46:08	--	fluffypony.nl.eu.synirc.net: *** Checking ident...
+2017-03-26 16:46:08	--	fluffypony.nl.eu.synirc.net: *** Found your hostname
+2017-03-26 16:46:13	--	fluffypony.nl.eu.synirc.net: *** No ident response; username prefixed with ~
+2017-03-26 16:46:13	--	Welcome to the synIRC IRC Network babyelephants!~jason@ip72-200-2-236.no.no.cox.net
+2017-03-26 16:46:13	--	Your host is fluffypony.nl.eu.synirc.net, running version Unreal3.2.10.2
+2017-03-26 16:46:13	--	This server was created Tue Mar 25 2014 at 15:42:24 CET
+2017-03-26 16:46:13	--	fluffypony.nl.eu.synirc.net Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2017-03-26 16:46:13	--	UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 :are supported by this server
+2017-03-26 16:46:13	--	WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=synIRC CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ :are supported by this server
+2017-03-26 16:46:13	--	EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS :are supported by this server
+2017-03-26 16:46:13	--	There are 28 users and 5280 invisible on 17 servers
+2017-03-26 16:46:13	--	26 :operator(s) online
+2017-03-26 16:46:13	--	2124 :channels formed
+2017-03-26 16:46:13	--	I have 423 clients and 0 servers
+2017-03-26 16:46:13	--	423 1379 :Current local users 423, max 1379
+2017-03-26 16:46:13	--	5308 8248 :Current global users 5308, max 8248
+2017-03-26 16:46:13	--	- fluffypony.nl.eu.synirc.net Message of the Day -
+2017-03-26 16:46:13	--	- 29/3/2014 15:48
+2017-03-26 16:46:13	--	-                     ~~%%%%%%%%_,_,
+2017-03-26 16:46:13	--	-                    ~~%%%%%%%%%-"/./
+2017-03-26 16:46:13	--	-                  ~~%%%%%%%-'   /  `.
+2017-03-26 16:46:13	--	-               ~~%%%%%%%%'  .     ,__;
+2017-03-26 16:46:13	--	-             ~~%%%%%%%%'   :       \O\
+2017-03-26 16:46:13	--	-           ~~%%%%%%%%'    :          `.
+2017-03-26 16:46:13	--	-        ~~%%%%%%%%'       `. _,        '
+2017-03-26 16:46:13	--	-     ~~%%%%%%%%'          .'`-._        `.
+2017-03-26 16:46:13	--	-  ~~%%%%%%%%%'           :     `-.     (,;
+2017-03-26 16:46:13	--	- ~~%%%%%%%%'             :         `._\_.'
+2017-03-26 16:46:13	--	- ~~%%jgs%%'              ;
+2017-03-26 16:46:13	--	-
+2017-03-26 16:46:13	--	-                    ___ ____   ____
+2017-03-26 16:46:13	--	-    ___ _   _ _ __ |_ _|  _ \ / ___|
+2017-03-26 16:46:13	--	-   / __| | | | '_ \ | || |_) | |
+2017-03-26 16:46:13	--	-   \__ \ |_| | | | || ||  _ <| |___
+2017-03-26 16:46:13	--	-   |___/\__, |_| |_|___|_| \_\\____|
+2017-03-26 16:46:13	--	-        |___/ fluffypony.nl.eu.synirc.net
+2017-03-26 16:46:13	--	-
+2017-03-26 16:46:13	--	- [[ Administrator: David <david@synirc.net> ]]
+2017-03-26 16:46:13	--	- [[ Ports      : 6660-6669, 7000            ]]
+2017-03-26 16:46:13	--	- [[ SSL Ports  : 6697, 7001                 ]]
+2017-03-26 16:46:13	--	- [[ Please visit us online at               ]]
+2017-03-26 16:46:13	--	- [[                  http://www.synirc.net/ ]]
+2017-03-26 16:46:13	--	- [[ For network related assistance please   ]]
+2017-03-26 16:46:13	--	- [[ join #help. For network wide bans and   ]]
+2017-03-26 16:46:13	--	- [[ other issues see forum.synirc.net       ]]
+2017-03-26 16:46:13	--	-
+2017-03-26 16:46:13	--	- * synIRC.net will scan your IP for open     *
+2017-03-26 16:46:13	--	- * proxies upon connection to our services.  *
+2017-03-26 16:46:13	--	- * You must be 18 or older to connect and    *
+2017-03-26 16:46:13	--	- * chat on our services, or have parental    *
+2017-03-26 16:46:13	--	- * consent. synIRC.net and its affiliates    *
+2017-03-26 16:46:13	--	- * are not responsible for any bodily or     *
+2017-03-26 16:46:13	--	- * mental harm that could possibly come from *
+2017-03-26 16:46:13	--	- * using its services. synIRC.net is not     *
+2017-03-26 16:46:13	--	- * responsible for any data received from or *
+2017-03-26 16:46:13	--	- * sent to our clients. By connecting, you   *
+2017-03-26 16:46:13	--	- * acknowledge that you are aware that other *
+2017-03-26 16:46:13	--	- * clients may log your conversations. You   *
+2017-03-26 16:46:13	--	- * also agree to be bound by the rules and   *
+2017-03-26 16:46:13	--	- * regulations that can be found at          *
+2017-03-26 16:46:13	--	- * http://www.synirc.net/charter/            *
+2017-03-26 16:46:13	--	-
+2017-03-26 16:46:13	--	-
+2017-03-26 16:46:13	--	End of /MOTD command.
+2017-03-26 16:46:13	--	User mode [+ix] by babyelephants
+2017-03-26 16:46:13	--	Global (services@services.synirc.net): [Logon News - Oct 09 2014] Follow us on Twitter @synIRC - http://twitter.com/synirc
+2017-06-23 01:52:39	--	irc: connecting to server irc.synirc.net/6667...
+2017-06-23 01:53:39	=!=	irc: timeout
+2017-06-23 01:53:39	--	irc: reconnecting to server in 10 seconds
+2017-06-23 01:53:49	--	irc: reconnecting to server...
+2017-06-23 01:53:49	--	irc: connecting to server irc.synirc.net/6667...
+2017-06-23 01:53:49	--	irc: connected to irc.synirc.net/6667 (93.170.96.103)
+2017-06-23 01:53:49	--	omega.uk.eu.synirc.net: *** Looking up your hostname...
+2017-06-23 01:53:49	--	omega.uk.eu.synirc.net: *** Checking ident...
+2017-06-23 01:53:49	--	omega.uk.eu.synirc.net: *** Found your hostname
+2017-06-23 01:53:55	--	omega.uk.eu.synirc.net: *** No ident response; username prefixed with ~
+2017-06-23 01:53:55	--	Welcome to the synIRC IRC Network babyelephants!~jason@ip174-69-116-119.no.no.cox.net
+2017-06-23 01:53:55	--	Your host is omega.uk.eu.synirc.net, running version Unreal3.2.10.6
+2017-06-23 01:53:55	--	This server was created Tue Jan 12 2016 at 20:31:57 PST
+2017-06-23 01:53:55	--	omega.uk.eu.synirc.net Unreal3.2.10.6 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2017-06-23 01:53:55	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2017-06-23 01:53:55	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=synIRC CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2017-06-23 01:53:55	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2017-06-23 01:53:55	--	There are 27 users and 4541 invisible on 16 servers
+2017-06-23 01:53:55	--	25 :operator(s) online
+2017-06-23 01:53:55	--	2 :unknown connection(s)
+2017-06-23 01:53:55	--	1953 :channels formed
+2017-06-23 01:53:55	--	I have 674 clients and 0 servers
+2017-06-23 01:53:55	--	674 866 :Current local users 674, max 866
+2017-06-23 01:53:55	--	4568 8248 :Current global users 4568, max 8248
+2017-06-23 01:53:55	--	- omega.uk.eu.synirc.net Message of the Day -
+2017-06-23 01:53:55	--	- 12/1/2016 23:39
+2017-06-23 01:53:55	--	- This is the short MOTD. To view the complete MOTD type /motd
+2017-06-23 01:53:55	--	-
+2017-06-23 01:53:55	--	-             ######  ##    ## ##    ## #### ########   ######
+2017-06-23 01:53:55	--	-            ##    ##  ##  ##  ###   ##  ##  ##     ## ##    ##
+2017-06-23 01:53:55	--	-            ##         ####   ####  ##  ##  ##     ## ##
+2017-06-23 01:53:55	--	-             ######     ##    ## ## ##  ##  ########  ##
+2017-06-23 01:53:55	--	-                  ##    ##    ##  ####  ##  ##   ##   ##
+2017-06-23 01:53:55	--	-            ##    ##    ##    ##   ###  ##  ##    ##  ##    ##
+2017-06-23 01:53:55	--	-             ######     ##    ##    ## #### ##     ##  ######
+2017-06-23 01:53:55	--	-
+2017-06-23 01:53:55	--	-          |                                                    |
+2017-06-23 01:53:55	--	-        --+----------------------------------------------------+--
+2017-06-23 01:53:55	--	-          |                                                    |
+2017-06-23 01:53:55	--	-          | Welcome on omega.uk.eu.synirc.net           	      |
+2017-06-23 01:53:55	--	-          | Available ports: 6660-6669                         |
+2017-06-23 01:53:55	--	-          | SSL ports: 6697, 7001                              |
+2017-06-23 01:53:55	--	-          |                                                    |
+2017-06-23 01:53:55	--	-          | Server Admin: Jordan jordan@synirc.net             |
+2017-06-23 01:53:55	--	-          |                                                    |
+2017-06-23 01:53:55	--	-        --+----------------------------------------------------+--
+2017-06-23 01:53:55	--	-          |                                                    |
+2017-06-23 01:53:55	--	-
+2017-06-23 01:53:55	--	- DISCLAIMER:
+2017-06-23 01:53:55	--	-
+2017-06-23 01:53:55	--	- synIRC.net will scan your IP for open proxies upon connection to our
+2017-06-23 01:53:55	--	- services.  You must be 18 or older to connect and chat on our services, or
+2017-06-23 01:53:55	--	- have parental consent. synIRC.net and its affiliates are not responsible
+2017-06-23 01:53:55	--	- for any bodily or mental harm that could possibly come from using its
+2017-06-23 01:53:55	--	- services. synIRC.net is not responsible for any data received or sent
+2017-06-23 01:53:55	--	- out to our clients. By connecting, you consent to have logging of your
+2017-06-23 01:53:55	--	- conversations done by other clients and are also bound to the rules and
+2017-06-23 01:53:55	--	- regulations that can be found at http://www.synirc.net/charter/
+2017-06-23 01:53:55	--	End of /MOTD command.
+2017-06-23 01:53:55	--	User mode [+ix] by babyelephants
+2017-06-23 01:53:55	--	Global (services@services.synirc.net): [Logon News - Oct 09 2014] Follow us on Twitter @synIRC - http://twitter.com/synirc
+2017-06-23 01:57:47	--	irc: connecting to server irc.synirc.net/6667...
+2017-06-23 01:57:47	--	irc: connected to irc.synirc.net/6667 (2600:3c01::f03c:91ff:fe50:78f1)
+2017-06-23 01:57:47	--	logik.ca.us.synirc.net: *** Looking up your hostname...
+2017-06-23 01:57:47	--	logik.ca.us.synirc.net: *** Checking ident...
+2017-06-23 01:57:47	--	logik.ca.us.synirc.net: *** Couldn't resolve your hostname; using your IP address instead
+2017-06-23 01:57:47	--	logik.ca.us.synirc.net: *** No ident response; username prefixed with ~
+2017-06-23 01:57:48	--	Welcome to the synIRC IRC Network babyelephants!~jason@2600:8807:5600:195:619b:f502:1501:4a5d
+2017-06-23 01:57:48	--	Your host is logik.ca.us.synirc.net, running version Unreal3.2.10.7
+2017-06-23 01:57:48	--	This server was created Tue Sep 6 2016 at 14:41:34 AEST
+2017-06-23 01:57:48	--	logik.ca.us.synirc.net Unreal3.2.10.7 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2017-06-23 01:57:48	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2017-06-23 01:57:48	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=synIRC CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2017-06-23 01:57:48	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2017-06-23 01:57:48	--	There are 27 users and 4543 invisible on 16 servers
+2017-06-23 01:57:48	--	25 :operator(s) online
+2017-06-23 01:57:48	--	1956 :channels formed
+2017-06-23 01:57:48	--	I have 876 clients and 0 servers
+2017-06-23 01:57:48	--	876 1121 :Current local users 876, max 1121
+2017-06-23 01:57:48	--	4570 8248 :Current global users 4570, max 8248
+2017-06-23 01:57:48	--	- logik.ca.us.synirc.net Message of the Day -
+2017-06-23 01:57:48	--	- 12/2/2017 4:04
+2017-06-23 01:57:48	--	-                       IIIII RRRRRR   CCCCC
+2017-06-23 01:57:48	--	-  sss  yy   yy nn nnn   III  RR   RR CC    C
+2017-06-23 01:57:48	--	- s     yy   yy nnn  nn  III  RRRRRR  CC
+2017-06-23 01:57:48	--	-  sss   yyyyyy nn   nn  III  RR  RR  CC    C
+2017-06-23 01:57:48	--	-     s      yy nn   nn IIIII RR   RR  CCCCC
+2017-06-23 01:57:48	--	-  sss   yyyyy         logik.ca.us.synirc.net
+2017-06-23 01:57:48	--	-
+2017-06-23 01:57:48	--	-
+2017-06-23 01:57:48	--	- Welcome to synIRC!
+2017-06-23 01:57:48	--	-
+2017-06-23 01:57:48	--	- By connecting to synIRC, you agree to abide by the charter
+2017-06-23 01:57:48	--	- which can be found at https://synirc.net/charter
+2017-06-23 01:57:48	--	-
+2017-06-23 01:57:48	--	- All servers also run proxy scanners. By connecting, you
+2017-06-23 01:57:48	--	- consent to have your IP address scanned for open proxies.
+2017-06-23 01:57:48	--	- These IP scans will originate from the IP of the server you
+2017-06-23 01:57:48	--	- connected to.
+2017-06-23 01:57:48	--	-
+2017-06-23 01:57:48	--	- If you require network assistance, please join #help.
+2017-06-23 01:57:48	--	-
+2017-06-23 01:57:48	--	- Behind a firewall? synIRC is also reachable at the address
+2017-06-23 01:57:48	--	- port80.synirc.net, port 80 and 443 (SSL).
+2017-06-23 01:57:48	--	-
+2017-06-23 01:57:48	--	End of /MOTD command.
+2017-06-23 01:57:48	--	User mode [+ix] by babyelephants
+2017-06-23 01:57:48	--	Global (services@services.synirc.net): [Logon News - Oct 09 2014] Follow us on Twitter @synIRC - http://twitter.com/synirc
+2017-07-04 20:21:37	--	irc: connecting to server irc.synirc.net/6667...
+2017-07-04 20:21:38	--	irc: connected to irc.synirc.net/6667 (2605:b900:0:9ba5::100)
+2017-07-04 20:21:38	--	toronto.on.ca.synirc.net: *** Looking up your hostname...
+2017-07-04 20:21:38	--	toronto.on.ca.synirc.net: *** Checking ident...
+2017-07-04 20:21:38	--	toronto.on.ca.synirc.net: *** Couldn't resolve your hostname; using your IP address instead
+2017-07-04 20:21:38	--	toronto.on.ca.synirc.net: *** No ident response; username prefixed with ~
+2017-07-04 20:21:38	--	Welcome to the synIRC IRC Network babyelephants!~jason@2600:8807:5600:195:6456:85b8:2171:62eb
+2017-07-04 20:21:38	--	Your host is toronto.on.ca.synirc.net, running version Unreal3.2.10.4
+2017-07-04 20:21:38	--	This server was created Tue Sep 30 2014 at 13:01:25 EDT
+2017-07-04 20:21:38	--	toronto.on.ca.synirc.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2017-07-04 20:21:38	--	UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 :are supported by this server
+2017-07-04 20:21:38	--	WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=synIRC CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ :are supported by this server
+2017-07-04 20:21:38	--	EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS :are supported by this server
+2017-07-04 20:21:38	--	There are 27 users and 4765 invisible on 16 servers
+2017-07-04 20:21:38	--	24 :operator(s) online
+2017-07-04 20:21:38	--	1 :unknown connection(s)
+2017-07-04 20:21:38	--	2021 :channels formed
+2017-07-04 20:21:38	--	I have 546 clients and 0 servers
+2017-07-04 20:21:38	--	546 1570 :Current local users 546, max 1570
+2017-07-04 20:21:38	--	4792 8248 :Current global users 4792, max 8248
+2017-07-04 20:21:38	--	- toronto.on.ca.synirc.net Message of the Day -
+2017-07-04 20:21:38	--	- 30/9/2014 16:30
+2017-07-04 20:21:38	--	-                                    ooooo ooooooooo.     .oooooo.
+2017-07-04 20:21:38	--	-                                    `888' `888   `Y88.  d8P'  `Y8b
+2017-07-04 20:21:38	--	-    .oooo.o oooo    ooo ooo. .oo.    888   888   .d88' 888
+2017-07-04 20:21:38	--	-   d88(  "8  `88.  .8'  `888P"Y88b   888   888ooo88P'  888
+2017-07-04 20:21:38	--	-   `"Y88b.    `88..8'    888   888   888   888`88b.    888
+2017-07-04 20:21:38	--	-   o.  )88b    `888'     888   888   888   888  `88b.  `88b    ooo
+2017-07-04 20:21:38	--	-   8""888P'     .8'     o888o o888o o888o o888o  o888o  `Y8bood8P'
+2017-07-04 20:21:38	--	-            .o..P'
+2017-07-04 20:21:38	--	-            `Y8P'
+2017-07-04 20:21:38	--	-                                                            .
+2017-07-04 20:21:38	--	-                                                            |
+2017-07-04 20:21:38	--	-                                                           < >
+2017-07-04 20:21:38	--	-                                                            |
+2017-07-04 20:21:38	--	-                                                          (^ ^)
+2017-07-04 20:21:38	--	-                                                           `|`
+2017-07-04 20:21:38	--	-                                ______                      |
+2017-07-04 20:21:38	--	-                      .-,__,-. |""""""|                     |
+2017-07-04 20:21:38	--	-                      | ]""[ | |""""""|       ,.,__         |
+2017-07-04 20:21:38	--	-                      | |""| | |""""""|     /`.     ` ;     |
+2017-07-04 20:21:38	--	-                      | |""| | |""""""|   /`.  '.       ;   |
+2017-07-04 20:21:38	--	-                      | |""| | |""""""| /`.  '.  .       ; /^\
+2017-07-04 20:21:38	--	-  ----------------------'-'--'-'-'------''---'---'--'-------'---'----
+2017-07-04 20:21:38	--	-
+2017-07-04 20:21:38	--	-   toronto.on.ca.synirc.net (ports: 6660-9, 7000, ssl: +6697, +7001)
+2017-07-04 20:21:38	--	-   This server is located at 905 King Street W, Toronto, ON, Canada.
+2017-07-04 20:21:38	--	-     At the corner of King St and Strachan Ave in Liberty Village.
+2017-07-04 20:21:38	--	-
+2017-07-04 20:21:38	--	-     admin: slushey <slushey@synirc.net>
+2017-07-04 20:21:38	--	-   coadmin: basket <basket@synirc.net>
+2017-07-04 20:21:38	--	-     ircop: Lioness <lioness@synirc.net>
+2017-07-04 20:21:38	--	-            minusX <minusx@synirc.net>
+2017-07-04 20:21:38	--	-
+2017-07-04 20:21:38	--	-       url: http://www.synirc.net
+2017-07-04 20:21:38	--	-    forums: http://forum.synirc.net
+2017-07-04 20:21:38	--	-   support: #help
+2017-07-04 20:21:38	--	-
+2017-07-04 20:21:38	--	-  -------------------------------------------------------------------
+2017-07-04 20:21:38	--	-
+2017-07-04 20:21:38	--	- synIRC.net will scan your IP for open proxies upon connection to our
+2017-07-04 20:21:38	--	- services. You must be 18 or older to connect and chat on our services, or
+2017-07-04 20:21:38	--	- have parental consent. synIRC.net and its affiliates are not responsible
+2017-07-04 20:21:38	--	- for any bodily or mental harm that could possibly come from using its
+2017-07-04 20:21:38	--	- services. synIRC.net is not responsible for any data received or sent
+2017-07-04 20:21:38	--	- out to our clients. By connecting, you consent to have logging of your
+2017-07-04 20:21:38	--	- conversations done by other clients and are also bound to the rules and
+2017-07-04 20:21:38	--	- regulations that can be found at http://www.synirc.net/charter/
+2017-07-04 20:21:38	--	End of /MOTD command.
+2017-07-04 20:21:38	--	User mode [+ix] by babyelephants
+2017-07-04 20:21:38	--	Global (services@services.synirc.net): [Logon News - Oct 09 2014] Follow us on Twitter @synIRC - http://twitter.com/synirc
+2017-07-04 20:22:06	--	bipolarreddit: No such channel
+2017-08-31 00:02:51	--	irc: connecting to server irc.synirc.net/6667...
+2017-08-31 00:02:51	--	irc: connected to irc.synirc.net/6667 (2600:3c01::f03c:91ff:fe50:78f1)
+2017-08-31 00:02:51	--	logik.ca.us.synirc.net: *** Looking up your hostname...
+2017-08-31 00:02:51	--	logik.ca.us.synirc.net: *** Checking ident...
+2017-08-31 00:02:51	--	logik.ca.us.synirc.net: *** Couldn't resolve your hostname; using your IP address instead
+2017-08-31 00:02:51	--	logik.ca.us.synirc.net: *** No ident response; username prefixed with ~
+2017-08-31 00:02:51	--	Welcome to the synIRC IRC Network babyelephants!~jason@2600:8807:5600:195:9508:db32:6186:9b17
+2017-08-31 00:02:51	--	Your host is logik.ca.us.synirc.net, running version Unreal3.2.10.7
+2017-08-31 00:02:51	--	This server was created Tue Sep 6 2016 at 14:41:34 AEST
+2017-08-31 00:02:51	--	logik.ca.us.synirc.net Unreal3.2.10.7 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2017-08-31 00:02:51	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2017-08-31 00:02:51	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=synIRC CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2017-08-31 00:02:51	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2017-08-31 00:02:51	--	There are 27 users and 4476 invisible on 16 servers
+2017-08-31 00:02:51	--	24 :operator(s) online
+2017-08-31 00:02:51	--	2 :unknown connection(s)
+2017-08-31 00:02:51	--	1950 :channels formed
+2017-08-31 00:02:51	--	I have 1342 clients and 0 servers
+2017-08-31 00:02:51	--	1342 1402 :Current local users 1342, max 1402
+2017-08-31 00:02:51	--	4503 8248 :Current global users 4503, max 8248
+2017-08-31 00:02:51	--	- logik.ca.us.synirc.net Message of the Day -
+2017-08-31 00:02:51	--	- 12/2/2017 4:04
+2017-08-31 00:02:51	--	-                       IIIII RRRRRR   CCCCC
+2017-08-31 00:02:51	--	-  sss  yy   yy nn nnn   III  RR   RR CC    C
+2017-08-31 00:02:51	--	- s     yy   yy nnn  nn  III  RRRRRR  CC
+2017-08-31 00:02:51	--	-  sss   yyyyyy nn   nn  III  RR  RR  CC    C
+2017-08-31 00:02:51	--	-     s      yy nn   nn IIIII RR   RR  CCCCC
+2017-08-31 00:02:51	--	-  sss   yyyyy         logik.ca.us.synirc.net
+2017-08-31 00:02:51	--	-
+2017-08-31 00:02:51	--	-
+2017-08-31 00:02:51	--	- Welcome to synIRC!
+2017-08-31 00:02:51	--	-
+2017-08-31 00:02:51	--	- By connecting to synIRC, you agree to abide by the charter
+2017-08-31 00:02:51	--	- which can be found at https://synirc.net/charter
+2017-08-31 00:02:51	--	-
+2017-08-31 00:02:51	--	- All servers also run proxy scanners. By connecting, you
+2017-08-31 00:02:51	--	- consent to have your IP address scanned for open proxies.
+2017-08-31 00:02:51	--	- These IP scans will originate from the IP of the server you
+2017-08-31 00:02:51	--	- connected to.
+2017-08-31 00:02:51	--	-
+2017-08-31 00:02:51	--	- If you require network assistance, please join #help.
+2017-08-31 00:02:51	--	-
+2017-08-31 00:02:51	--	- Behind a firewall? synIRC is also reachable at the address
+2017-08-31 00:02:51	--	- port80.synirc.net, port 80 and 443 (SSL).
+2017-08-31 00:02:51	--	-
+2017-08-31 00:02:51	--	End of /MOTD command.
+2017-08-31 00:02:51	--	User mode [+ix] by babyelephants
+2017-08-31 00:02:51	--	Global (services@services.synirc.net): [Logon News - Oct 09 2014] Follow us on Twitter @synIRC - http://twitter.com/synirc
+2017-09-04 20:23:47	--	irc: connecting to server irc.synirc.net/6667...
+2017-09-04 20:23:47	--	irc: connected to irc.synirc.net/6667 (2600:3c01::f03c:91ff:fe50:78f1)
+2017-09-04 20:23:47	--	logik.ca.us.synirc.net: *** Looking up your hostname...
+2017-09-04 20:23:47	--	logik.ca.us.synirc.net: *** Checking ident...
+2017-09-04 20:23:47	--	logik.ca.us.synirc.net: *** No ident response; username prefixed with ~
+2017-09-04 20:23:47	--	logik.ca.us.synirc.net: *** Couldn't resolve your hostname; using your IP address instead
+2017-09-04 20:23:47	--	Welcome to the synIRC IRC Network babyelephants!~jason@2600:8807:5600:195:9f2:95fc:80b0:f840
+2017-09-04 20:23:47	--	Your host is logik.ca.us.synirc.net, running version Unreal3.2.10.7
+2017-09-04 20:23:47	--	This server was created Tue Sep 6 2016 at 14:41:34 AEST
+2017-09-04 20:23:47	--	logik.ca.us.synirc.net Unreal3.2.10.7 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2017-09-04 20:23:47	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2017-09-04 20:23:47	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=synIRC CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2017-09-04 20:23:47	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2017-09-04 20:23:47	--	There are 28 users and 4565 invisible on 16 servers
+2017-09-04 20:23:47	--	23 :operator(s) online
+2017-09-04 20:23:47	--	1 :unknown connection(s)
+2017-09-04 20:23:47	--	2016 :channels formed
+2017-09-04 20:23:47	--	I have 1320 clients and 0 servers
+2017-09-04 20:23:47	--	1320 1402 :Current local users 1320, max 1402
+2017-09-04 20:23:47	--	4593 8248 :Current global users 4593, max 8248
+2017-09-04 20:23:47	--	- logik.ca.us.synirc.net Message of the Day -
+2017-09-04 20:23:47	--	- 12/2/2017 4:04
+2017-09-04 20:23:47	--	-                       IIIII RRRRRR   CCCCC
+2017-09-04 20:23:47	--	-  sss  yy   yy nn nnn   III  RR   RR CC    C
+2017-09-04 20:23:47	--	- s     yy   yy nnn  nn  III  RRRRRR  CC
+2017-09-04 20:23:47	--	-  sss   yyyyyy nn   nn  III  RR  RR  CC    C
+2017-09-04 20:23:47	--	-     s      yy nn   nn IIIII RR   RR  CCCCC
+2017-09-04 20:23:47	--	-  sss   yyyyy         logik.ca.us.synirc.net
+2017-09-04 20:23:47	--	-
+2017-09-04 20:23:47	--	-
+2017-09-04 20:23:47	--	- Welcome to synIRC!
+2017-09-04 20:23:47	--	-
+2017-09-04 20:23:47	--	- By connecting to synIRC, you agree to abide by the charter
+2017-09-04 20:23:47	--	- which can be found at https://synirc.net/charter
+2017-09-04 20:23:47	--	-
+2017-09-04 20:23:47	--	- All servers also run proxy scanners. By connecting, you
+2017-09-04 20:23:47	--	- consent to have your IP address scanned for open proxies.
+2017-09-04 20:23:47	--	- These IP scans will originate from the IP of the server you
+2017-09-04 20:23:47	--	- connected to.
+2017-09-04 20:23:47	--	-
+2017-09-04 20:23:47	--	- If you require network assistance, please join #help.
+2017-09-04 20:23:47	--	-
+2017-09-04 20:23:47	--	- Behind a firewall? synIRC is also reachable at the address
+2017-09-04 20:23:47	--	- port80.synirc.net, port 80 and 443 (SSL).
+2017-09-04 20:23:47	--	-
+2017-09-04 20:23:47	--	End of /MOTD command.
+2017-09-04 20:23:47	--	User mode [+ix] by babyelephants
+2017-09-04 20:23:47	--	Global (services@services.synirc.net): [Logon News - Oct 09 2014] Follow us on Twitter @synIRC - http://twitter.com/synirc
+2017-09-04 20:26:01	--	irc: connecting to server irc.synirc.net/6667...
+2017-09-04 20:26:01	--	irc: connected to irc.synirc.net/6667 (2600:3c01::f03c:91ff:fe50:78f1)
+2017-09-04 20:26:01	--	logik.ca.us.synirc.net: *** Looking up your hostname...
+2017-09-04 20:26:01	--	logik.ca.us.synirc.net: *** Checking ident...
+2017-09-04 20:26:01	--	logik.ca.us.synirc.net: *** Couldn't resolve your hostname; using your IP address instead
+2017-09-04 20:26:02	--	logik.ca.us.synirc.net: *** No ident response; username prefixed with ~
+2017-09-04 20:26:02	--	Welcome to the synIRC IRC Network babyelephants!~jason@2600:8807:5600:195:9f2:95fc:80b0:f840
+2017-09-04 20:26:02	--	Your host is logik.ca.us.synirc.net, running version Unreal3.2.10.7
+2017-09-04 20:26:02	--	This server was created Tue Sep 6 2016 at 14:41:34 AEST
+2017-09-04 20:26:02	--	logik.ca.us.synirc.net Unreal3.2.10.7 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2017-09-04 20:26:02	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2017-09-04 20:26:02	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=synIRC CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2017-09-04 20:26:02	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2017-09-04 20:26:02	--	There are 28 users and 4559 invisible on 16 servers
+2017-09-04 20:26:02	--	23 :operator(s) online
+2017-09-04 20:26:02	--	1 :unknown connection(s)
+2017-09-04 20:26:02	--	2016 :channels formed
+2017-09-04 20:26:02	--	I have 1319 clients and 0 servers
+2017-09-04 20:26:02	--	1319 1402 :Current local users 1319, max 1402
+2017-09-04 20:26:02	--	4587 8248 :Current global users 4587, max 8248
+2017-09-04 20:26:02	--	- logik.ca.us.synirc.net Message of the Day -
+2017-09-04 20:26:02	--	- 12/2/2017 4:04
+2017-09-04 20:26:02	--	-                       IIIII RRRRRR   CCCCC
+2017-09-04 20:26:02	--	-  sss  yy   yy nn nnn   III  RR   RR CC    C
+2017-09-04 20:26:02	--	- s     yy   yy nnn  nn  III  RRRRRR  CC
+2017-09-04 20:26:02	--	-  sss   yyyyyy nn   nn  III  RR  RR  CC    C
+2017-09-04 20:26:02	--	-     s      yy nn   nn IIIII RR   RR  CCCCC
+2017-09-04 20:26:02	--	-  sss   yyyyy         logik.ca.us.synirc.net
+2017-09-04 20:26:02	--	-
+2017-09-04 20:26:02	--	-
+2017-09-04 20:26:02	--	- Welcome to synIRC!
+2017-09-04 20:26:02	--	-
+2017-09-04 20:26:02	--	- By connecting to synIRC, you agree to abide by the charter
+2017-09-04 20:26:02	--	- which can be found at https://synirc.net/charter
+2017-09-04 20:26:02	--	-
+2017-09-04 20:26:02	--	- All servers also run proxy scanners. By connecting, you
+2017-09-04 20:26:02	--	- consent to have your IP address scanned for open proxies.
+2017-09-04 20:26:02	--	- These IP scans will originate from the IP of the server you
+2017-09-04 20:26:02	--	- connected to.
+2017-09-04 20:26:02	--	-
+2017-09-04 20:26:02	--	- If you require network assistance, please join #help.
+2017-09-04 20:26:02	--	-
+2017-09-04 20:26:02	--	- Behind a firewall? synIRC is also reachable at the address
+2017-09-04 20:26:02	--	- port80.synirc.net, port 80 and 443 (SSL).
+2017-09-04 20:26:02	--	-
+2017-09-04 20:26:02	--	End of /MOTD command.
+2017-09-04 20:26:02	--	User mode [+ix] by babyelephants
+2017-09-04 20:26:02	--	Global (services@services.synirc.net): [Logon News - Oct 09 2014] Follow us on Twitter @synIRC - http://twitter.com/synirc
